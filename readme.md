@@ -80,16 +80,7 @@ While GEO shares foundations with SEO (quality content, technical optimization, 
 - **[Influencing ChatGPT Results](https://gofishdigital.com/blog/seo-case-study-how-we-influenced-the-chatgpt-search-results/)** - Real-time optimization
 - **[115% Visibility - Geneva Worldwide](https://boulderseomarketing.com/seo-case-studies/how-this-translation-transcription-and-interpretation-company-dominated-ai-overviews/)** - AI Overviews domination
 - **[7× Growth - Ramp Fintech](https://www.tryprofound.com/case-studies/ramp)** - 3.2% to 22.2% visibility
-
-### Industry Analysis
-
-- **[AI Search Visibility Leaders by Industry](https://www.seoclarity.net/blog/ai-search-visibility-leaders)** - Sector breakdown
-- **[AI Citation Failure Study](https://www.niemanlab.org/2025/03/ai-search-engines-fail-to-produce-accurate-citations-in-over-60-of-tests-according-to-new-tow-center-study/)** - 60% failure rate analysis
-- **[ChatGPT Search: 80M Clickstream Analysis](https://www.semrush.com/blog/chatgpt-search-insights/)** - User behavior insights
-- **[75K Brand Analysis: AI Overview Ranking Factors](https://ahrefs.com/blog/ai-overview-brand-correlation/)** - Large-scale correlation study
-- **[AI Overviews Reduce Clicks by 34.5%](https://ahrefs.com/blog/ai-overviews-reduce-clicks/)** - CTR impact analysis
-- **[63% of Websites Receive AI Traffic](https://ahrefs.com/blog/ai-traffic-study/)** - 3,000 site study
-
+- **[How to Appear in Generative AI Searches](https://github.com/amplifying-ai/awesome-generative-engine-optimization/blob/42a04a67b77bcb4df6152a2151ed32b148530ee9/presentations/Exposure%20Ninja%20How%20to%20Appear%20in%20Generative%20AI%20Searches.pdf)** - Exposure Ninja presentation
 
 
 ## Tools & Software
@@ -161,24 +152,27 @@ While GEO shares foundations with SEO (quality content, technical optimization, 
 ### Measurement Guides
 
 - **[Track AI Visibility Across Platforms](https://searchengineland.com/how-to-track-visibility-across-ai-platforms-454251)** - Cross-platform tracking
-
 - **[AI Search Traffic in GA4](https://www.seoclarity.net/blog/track-ai-search-traffic)** - Analytics setup
-
 - **[Measuring GEO Success](https://www.purplexmarketing.com/news/measuring-success-in-geo)** - KPI framework
-
 - **[AI Brand Footprint Measurement](https://www.wholewhale.com/tips/measuring-your-ai-brand-footprint-the-hidden-visibility-challenge/)** - Visibility challenges
 
   
 
 ## Industry Analysis
 
-### Market Research
+### Market Research & Data
 
 - **[How GEO Rewrites Search Rules](https://a16z.com/geo-over-seo/)** - Andreessen Horowitz analysis
 - **[AI Search Engines Comparison](https://seranking.com/blog/chatgpt-vs-perplexity-vs-google-vs-bing-comparison-research/)** - Platform differences
 - **[Top 4 AI Search Engines](https://research.aimultiple.com/ai-search-engine/)** - Market overview
 - **[AI Overviews Have Doubled](https://ahrefs.com/blog/ai-overview-growth/)** - 25M queries analyzed
 - **[SEMrush AI Overviews Study 2025](https://www.semrush.com/blog/semrush-ai-overviews-study/)** - 10M keyword analysis
+- **[AI Search Visibility Leaders by Industry](https://www.seoclarity.net/blog/ai-search-visibility-leaders)** - Sector breakdown
+- **[AI Citation Failure Study](https://www.niemanlab.org/2025/03/ai-search-engines-fail-to-produce-accurate-citations-in-over-60-of-tests-according-to-new-tow-center-study/)** - 60% failure rate analysis
+- **[ChatGPT Search: 80M Clickstream Analysis](https://www.semrush.com/blog/chatgpt-search-insights/)** - User behavior insights
+- **[75K Brand Analysis: AI Overview Ranking Factors](https://ahrefs.com/blog/ai-overview-brand-correlation/)** - Large-scale correlation study
+- **[AI Overviews Reduce Clicks by 34.5%](https://ahrefs.com/blog/ai-overviews-reduce-clicks/)** - CTR impact analysis
+- **[63% of Websites Receive AI Traffic](https://ahrefs.com/blog/ai-traffic-study/)** - 3,000 site study
 
 ### Vendor Landscape
 
