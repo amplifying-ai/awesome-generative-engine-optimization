@@ -89,6 +89,7 @@ Purpose-built platforms for AI search optimization, monitoring, and brand visibi
 - [ZipTie](https://ziptie.ai/) - Brand visibility monitoring across generative AI platforms with detailed breakdowns.
 - [Knowatoa](https://knowatoa.com/) - AI search analytics platform tracking brand mentions across ChatGPT, Claude, and Perplexity.
 - [Daydream](https://www.withdaydream.com/) - AI visibility optimization platform with focus on content discoverability.
+- [LLM Optimizer](https://llmopt.metavert.io) - AI brand visibility tool (like SEO for LLMs, or GEO). Composite AI Visibility Score with per-dimension analysis across YouTube, Reddit, search, and direct LLM knowledge testing. Prioritized optimization recommendations. MCP-native access via Claude and other AI assistants.
 
 ### Enterprise SEO Platforms with GEO Features
 
