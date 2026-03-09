@@ -89,6 +89,7 @@ Purpose-built platforms for AI search optimization, monitoring, and brand visibi
 - [ZipTie](https://ziptie.ai/) - Brand visibility monitoring across generative AI platforms with detailed breakdowns.
 - [Knowatoa](https://knowatoa.com/) - AI search analytics platform tracking brand mentions across ChatGPT, Claude, and Perplexity.
 - [Daydream](https://www.withdaydream.com/) - AI visibility optimization platform with focus on content discoverability.
+- [GEOScore](https://geoscoreai.com) - Free AI search visibility scanner running 11 technical checks (AI crawl access, structured data, llms.txt, content structure, citation potential). Freemium with $29 Pro deep report.
 
 ### Enterprise SEO Platforms with GEO Features
 
