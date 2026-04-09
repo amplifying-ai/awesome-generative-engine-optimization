@@ -18,6 +18,7 @@
 - [Communities & Forums](#communities--forums)
 - [Conferences & Events](#conferences--events)
 - [Industry Analysis](#industry-analysis)
+- [Chinese GEO Ecosystem](#chinese-geo-ecosystem)
 - [Related Resources](#related-resources)
 - [Contribute](#contribute)
 
@@ -341,6 +342,34 @@ Agencies offering dedicated generative engine optimization services:
 - [FirstPageSage Agency Guide](https://firstpagesage.com/seo-blog/the-top-generative-engine-optimization-geo-agencies-of-2025/) - Comprehensive agency analysis.
 - [GEO Agencies on Clutch](https://clutch.co/seo-firms/generative-engine-optimization) - Verified reviews and rankings.
 - [Omniscient Digital's Agency Review](https://beomniscient.com/blog/geo-agencies/) - Detailed agency comparisons.
+
+
+
+## Chinese GEO Ecosystem
+
+Chinese AI search engines have distinct citation biases compared to English ones, making Chinese GEO a separate discipline that requires localized strategies.
+
+### Chinese AI Search Engines
+
+| Platform                  | Citation Bias                                              | Link                                         |
+| ------------------------- | ---------------------------------------------------------- | -------------------------------------------- |
+| **Kimi (Moonshot AI)**    | Relatively neutral, friendly to independent sites          | [kimi.ai](https://kimi.moonshot.cn)          |
+| **DeepSeek**              | Relatively neutral, friendly to independent sites          | [deepseek.com](https://www.deepseek.com)     |
+| **Wenxin Yiyan (Baidu)**  | Prefers Baidu ecosystem content (Baijiahao, Baike, Zhidao) | [yiyan.baidu.com](https://yiyan.baidu.com)   |
+| **Doubao (ByteDance)**    | Prefers ByteDance ecosystem content (Toutiao, Douyin)      | [doubao.com](https://www.doubao.com)          |
+
+### Key Differences from English GEO
+
+- **Zhihu** (知乎) is the only platform cited by ALL Chinese AI engines (citation rate 62.5%) — equivalent to Reddit's role in English GEO.
+- Baidu and ByteDance AI engines exhibit strong **ecosystem lock-in**, prioritizing their own content platforms.
+- Kimi and DeepSeek are more similar to Western AI engines in citation neutrality.
+- China's regulatory environment (content licensing, AI governance) adds a unique compliance layer.
+
+### Resources
+
+- [awesome-geo-cn](https://github.com/LLM-X-Factorer/awesome-geo-cn) - Comprehensive Chinese GEO resource list covering Chinese AI search engines and content platforms.
+- [SEO + GEO Course (Chinese)](https://factorer.app/) - Free 10-week course based on KDD 2024 paper, with Chinese AI platform testing data.
+- [KDD 2024 GEO Paper](https://arxiv.org/abs/2311.09735) - Original academic research on Generative Engine Optimization.
 
 
 
