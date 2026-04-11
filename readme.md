@@ -106,6 +106,7 @@ Major SEO platforms that have added AI search optimization capabilities:
 #### Open Source Data / Evals
 - [AI Product Bench](https://github.com/amplifying-ai/ai-product-bench) - Benchmark for AI product visibility.
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
+- [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin (MIT) that audits pages for AI-search readiness: generates JSON-LD schema markup (FAQ, HowTo, Article, Product, LocalBusiness), optimizes meta tags, improves heading hierarchy, and ships fixes directly to your repo or CMS. Includes an E-E-A-T-focused content writer skill and keyword research with AI-intent classification.
 
 #### llms.txt Generators
 - [Apify Generator](https://apify.com/jakub.kopecky/llmstxt-generator) - Scraping-based generator.
