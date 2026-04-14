@@ -89,6 +89,7 @@ Purpose-built platforms for AI search optimization, monitoring, and brand visibi
 - [ZipTie](https://ziptie.ai/) - Brand visibility monitoring across generative AI platforms with detailed breakdowns.
 - [Knowatoa](https://knowatoa.com/) - AI search analytics platform tracking brand mentions across ChatGPT, Claude, and Perplexity.
 - [Daydream](https://www.withdaydream.com/) - AI visibility optimization platform with focus on content discoverability.
+- [Rank4AI](https://rank4ai.co.uk) - UK-based AI search visibility agency using a Five Signal Model framework (Identity Clarity, Subject Authority, Meaning Architecture, Ecosystem Validation, Signal Consistency) for generative engine optimization.
 
 ### Enterprise SEO Platforms with GEO Features
 
