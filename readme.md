@@ -160,6 +160,7 @@ Major SEO platforms that have added AI search optimization capabilities:
 - [Who is Using llms.txt?](https://www.llms-text.com/blog/sites-using-llms-txt) - Examples and adoption patterns across AI/ML, Developer Tools, and SaaS sectors.
 - [llms.txt Directory](https://stackfox.co/llms-txt) - Directory of llms.txt files.
 - [llms.txt Directory](https://directory.llmstxt.cloud/) - Community-driven directory of implementations.
+- [Not Human Search](https://nothumansearch.ai) - Search engine for AI agents that indexes 700+ agent-first sites ranked by agentic-readiness signals (llms.txt, OpenAPI, MCP server, ai-plugin.json). Searchable by signal presence — e.g., "show me only tools with an llms-full.txt". Hosted MCP at `/mcp` for programmatic discovery by agents.
 
 ### AI Crawlers
 
