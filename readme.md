@@ -318,6 +318,9 @@ These platforms are frequently cited by AI engines - building presence here impr
 - [Google December 2025 Core Update Analysis](https://www.gsqi.com/marketing-blog/google-december-2025-broad-core-update-analysis-findings/) - 18-day rollout (Dec 11-29, 2025) with significant AI-driven content ranking shifts.
 - [How Google Search is Changing - January 2026](https://www.digitalthirdcoast.com/blog/ai-mode-use-trends) - Navigational AI Overviews grew from <1% to >10% in 2025; ads alongside AI Overviews rose from ~3% to ~40%.
 - [Our Approach to Advertising and Expanding Access](https://openai.com/index/our-approach-to-advertising-and-expanding-access/) - OpenAI's January 2026 announcement of advertising in ChatGPT. Ads are separate from answers, don't influence responses, and conversations remain private from advertisers.
+- [Google AI Overviews Killed Your Traffic](https://adaptordie.io/blog/google-ai-overviews-killed-your-traffic) - Analysis of how AI Overviews are fundamentally disrupting traditional search traffic patterns and organic reach strategies.
+- [AI Product Discovery is Killing SEO](https://adaptordie.io/blog/ai-product-discovery-killing-seo) - Examination of how AI-powered product discovery is transforming consumer search behavior and making traditional SEO less effective.
+- [Your Content Strategy Died When ChatGPT Launched](https://adaptordie.io/blog/content-strategy-died-chatgpt) - Strategic analysis of how generative AI has disrupted content marketing and the need for new optimization approaches beyond traditional SEO.
 
 ### GEO Service Providers
 
