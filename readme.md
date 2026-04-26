@@ -245,7 +245,7 @@ McKinsey projects agentic commerce will reach $3-5 trillion by 2030. Major playe
 - [Profound Blog](https://www.tryprofound.com/blog) - Enterprise GEO insights and research.
 - [Otterly AI Blog](https://otterly.ai/blog/) - AI citation analysis and platform comparisons.
 - [Rankability Blog](https://www.rankability.com/blog/) - llms.txt adoption tracking and GEO research.
-
+- [Pro AI Search](https://proaisearch.com) - India's first GEO, AEO, and LLM SEO resource for businesses. Practitioner-written guides on ranking in ChatGPT, Google AI Overviews, and Perplexity, with an India-first business perspective.
 
 
 ## Videos & Podcasts
