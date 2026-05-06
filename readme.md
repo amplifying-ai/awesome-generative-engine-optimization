@@ -58,6 +58,7 @@
 
 ### Documented Stories
 
+- [Fix72 — French Local IT Service](https://fix72.com "Fix72 dépannage informatique Le Mans") - Small local IT repair business (Le Mans, France) implementing full GEO stack: SSR prerendering, llms.txt, LocalBusiness structured data, 4 thematic sitemaps, automated Google Indexing API. Demonstrates GEO adoption for non-English local services.
 - [2,300% AI Traffic Growth - Manufacturing](https://diggitymarketing.com/ai-overviews-seo-case-study/) - E-E-A-T optimization case.
 - [200% Monthly Growth - Auto Parts](https://hedgescompany.com/blog/2025/04/ai-search-optimization-case-studies/) - Schema + llms.txt implementation.
 - [Influencing ChatGPT Results](https://gofishdigital.com/blog/seo-case-study-how-we-influenced-the-chatgpt-search-results/) - Real-time optimization.
