@@ -352,6 +352,7 @@ Agencies offering dedicated generative engine optimization services:
 - [Awesome-GEO by DavidHuji](https://github.com/DavidHuji/Awesome-GEO) - Research-focused GEO paper collection.
 - [Awesome SEO](https://github.com/teles/awesome-seo) - Traditional SEO resources that complement GEO strategies.
 - [Awesome AI GTM](https://github.com/ong/awesome-ai-gtm) - AI-powered Go-To-Market tools, including an AI Visibility & GEO section.
+- [Awesome AI Startups — Marketing, SEO & Sales](https://github.com/nowork-studio/awesome-ai-startups#marketing-seo-sales) - Indie/bootstrapped AI marketing, SEO, and sales tools from solo founders and small teams.
 
 ## Footnotes
 
