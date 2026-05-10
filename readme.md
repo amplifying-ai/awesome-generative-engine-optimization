@@ -168,6 +168,7 @@ Major SEO platforms that have added AI search optimization capabilities:
 - [The Rise of AI Crawlers](https://vercel.com/blog/the-rise-of-the-ai-crawler) - Analysis of 1.3B crawler requests.
 - [How OpenAI Crawls Websites](https://www.withdaydream.com/library/how-openai-crawls-and-indexes-your-website) - Technical breakdown.
 - [AI Crawlers Can't Execute JavaScript](https://prerender.io/blog/how-to-optimize-your-website-for-ai-crawlers/) - Critical limitation analysis.
+- [TinyTools AI Robots.txt Generator](https://tinytools-smoky.vercel.app/ai-robots-txt-generator/) - Free browser-based generator for robots.txt rules targeting AI crawlers (GPTBot, ClaudeBot, Google-Extended, PerplexityBot, CCBot, and more). No signup, runs entirely client-side.
 
 ### Structured Data
 
