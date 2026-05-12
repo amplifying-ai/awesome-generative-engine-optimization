@@ -73,7 +73,9 @@
 Purpose-built platforms for AI search optimization, monitoring, and brand visibility:
 
 - [AthenaHQ](https://www.athenahq.ai/) - Y Combinator-backed. Founded by ex-Google Search and DeepMind leaders. Unified GEO scoring. Claims 70+ customers with 10× AI traffic increases.
-- [Bluefish AI](https://bluefishai.com/) - $5M funded. Specializes in brand safety and source attribution. "Source graph" showing how Wikipedia, forums, PDFs influence outputs. AI ad campaigns.
+- [Bluefish AI](https://bluefishai.com/) - $5M funded. Specializes in brand safety and source attribution. "Source graph" showing how Wikipedia, forums, PDFs influence outputs. AI ad
+  campaigns.
+- [Cited By AI®](https://citedbyai.info) - UK-based ASEO platform scoring content at block level using the Citation Probability Score® (CPS®) framework. Predicts citation probability   across ChatGPT, Perplexity, Gemini, Claude, and Google AI Overviews across five pillars: Content Structure, Fact Density, Answer Structure, Self-Containment, and Freshness Signals. Free CPS® Lite checker via MCP — no sign-up required.
 - [GeckoCheck](https://geckocheck.com/) - Platform that helps merchants and brands optimize visibility, dominate AIsearch results, and deliver answers to billions of daily shoppers.
 - [GenRank](https://genrank.io/) - Timeline visualization and competitor benchmarking for AI visibility trends.
 - [Geoptie](https://geoptie.com/) - Helps you optimize your content for AI search engines and track your performance across multiple platforms.
