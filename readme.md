@@ -109,6 +109,7 @@ Major SEO platforms that have added AI search optimization capabilities:
 
 #### llms.txt Generators
 - [Apify Generator](https://apify.com/jakub.kopecky/llmstxt-generator) - Scraping-based generator.
+- [Dualmark](https://github.com/dodopayments/dualmark) - Open-source AEO/GEO infrastructure. Generates `/llms.txt` plus markdown twins of every page (served via HTTP content negotiation when an AI crawler UA is detected). TypeScript adapters for Astro, Next.js, and Cloudflare Workers. Includes a conformance CLI (`dualmark verify <url>`). Apache 2.0, npm provenance attested.
 - [llmstxtgenerator.org](https://llmstxtgenerator.org/) - Web-based generator.
 - [WordLift Generator](https://wordlift.io/generate-llms-txt/) - WordPress integration.
 
