@@ -105,14 +105,12 @@ Major SEO platforms that have added AI search optimization capabilities:
 
 #### Open Source Data / Evals
 - [AI Product Bench](https://github.com/amplifying-ai/ai-product-bench) - Benchmark for AI product visibility.
-- [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
-
-#### llms.txt Generators
+- [aio-surfaces](https://github.com/Janady13/aio-surfaces) - Open-source Python toolkit (MIT). Generates all four AI-citation surfaces (`llms.txt`, `aeo.json`, `entity.json`, `brand.json`) from a single typed site config. Same code that powers thatdevpro.com.
 - [Apify Generator](https://apify.com/jakub.kopecky/llmstxt-generator) - Scraping-based generator.
+- [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 - [llmstxtgenerator.org](https://llmstxtgenerator.org/) - Web-based generator.
+- [seo-sidecar](https://github.com/Janady13/seo-sidecar) - FastAPI + nginx SSI sidecar that injects fresh Schema.org JSON-LD into nginx-served sites without redeploys. Pure Python/Go. MIT licensed.
 - [WordLift Generator](https://wordlift.io/generate-llms-txt/) - WordPress integration.
-
-
 
 ## Research & Papers
 
@@ -160,7 +158,7 @@ Major SEO platforms that have added AI search optimization capabilities:
 - [Who is Using llms.txt?](https://www.llms-text.com/blog/sites-using-llms-txt) - Examples and adoption patterns across AI/ML, Developer Tools, and SaaS sectors.
 - [llms.txt Directory](https://stackfox.co/llms-txt) - Directory of llms.txt files.
 - [llms.txt Directory](https://directory.llmstxt.cloud/) - Community-driven directory of implementations.
-
+- [ThatDevPro Reference Library](https://www.thatdevpro.com/reference/) - 26 canonical reference pages covering every crawler signal a site emits: HTML meta tags, Open Graph, Twitter Cards, HTTP status codes (2xx-5xx), HTTP headers (caching, content, CORS, performance, rate-control, request, security, SEO). Cross-linked from a working llms.txt + llms-full.txt deployment.
 ### AI Crawlers
 
 - [AI Crawler User Agents List by Company](https://stackfox.co/bots) - Directory of AI bots and crawlers.
