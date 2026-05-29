@@ -53,6 +53,7 @@
 - [Integrate GEO with SEO](https://searchengineland.com/integrate-geo-seo-453351) - Strategies for unified traditional and AI search optimization.
 - [10-Step Guide to GEO](https://www.superlines.io/articles/generative-engine-optimization-geo-guide-2025) - Systematic approach to implementing GEO.
 - [LLMO: 10 Ways to Work Your Brand Into AI Answers](https://ahrefs.com/blog/llm-optimization/) - Practical tactics for improving AI citations.
+- [MiN8T llms.txt — Production Example](https://min8t.com/llms.txt) - Live llms.txt implementation with AI bot allowlist, citation-guidance section, and per-tool indexing hints. Reference for the [llms.txt protocol](https://llmstxt.org/) in production.
 
 ## Case Studies
 
