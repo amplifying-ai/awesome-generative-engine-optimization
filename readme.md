@@ -85,6 +85,7 @@ Purpose-built platforms for AI search optimization, monitoring, and brand visibi
 - [Profound](https://www.tryprofound.com/) - Enterprise benchmark platform. $35M Series B (Sequoia Capital). Tracks ChatGPT, Claude, Perplexity, Gemini. Share of voice, sentiment analysis, prompt-level rankings.
 - [Rankscale](https://rankscale.ai/) - AI-first SEO platform with GEO capabilities for enterprise brands.
 - [Rankshift](https://rankshift.com/) - Position tracking and visibility monitoring for AI-powered search platforms.
+- [Reality Audit](https://reality-audit.com/site-audit) - Free 5-dimension B2C SaaS relevancy diagnostic. Scores 4 of 5 dimensions (Message-Market Fit, Audience Precision, Offer-Outcome Alignment, Trust Signal Density) from a URL in 60 seconds. Brand-named indexable scored pages, head-to-head /compare URLs, embeddable badge, llms.txt + ai.txt + structured JSON for AI search engines.
 - [Scrunch](https://scrunch.com/) - Agent Experience Platform (AXP) for making websites legible to AI engines. Monitoring and active optimization.
 - [ZipTie](https://ziptie.ai/) - Brand visibility monitoring across generative AI platforms with detailed breakdowns.
 - [Knowatoa](https://knowatoa.com/) - AI search analytics platform tracking brand mentions across ChatGPT, Claude, and Perplexity.
