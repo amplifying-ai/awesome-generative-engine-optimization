@@ -90,6 +90,8 @@ Purpose-built platforms for AI search optimization, monitoring, and brand visibi
 - [Knowatoa](https://knowatoa.com/) - AI search analytics platform tracking brand mentions across ChatGPT, Claude, and Perplexity.
 - [Daydream](https://www.withdaydream.com/) - AI visibility optimization platform with focus on content discoverability.
 
+- [RanklyHub](https://ranklyhub.com/services/answer-engine-optimization) - Technical SEO and performance engineering bureau offering Answer Engine Optimization. Tracks visibility across ChatGPT, Perplexity, Gemini, and Google AI Overviews with citation monitoring and structured data optimization.
+
 ### Enterprise SEO Platforms with GEO Features
 
 Major SEO platforms that have added AI search optimization capabilities:
