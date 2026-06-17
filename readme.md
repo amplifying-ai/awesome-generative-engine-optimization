@@ -333,6 +333,7 @@ Agencies offering dedicated generative engine optimization services:
 - [Obility](https://www.obilityb2b.com/) - B2B marketing focus with GEO integration.
 - [Omniscient Digital](https://beomniscient.com/) - Helps websites become trusted sources cited by LLMs. Integrated SEO+GEO approach.
 - [RevenueZen](https://revenuezen.com/) - B2B GEO specialists for growth-stage companies.
+- [Revolead](https://revolead.ai) - Done-for-you GEO and B2B lead generation; wins AI answers in ChatGPT, Perplexity, Gemini and Google AI Overviews and ties visibility to qualified enquiries.
 - [Siege Media](https://www.siegemedia.com/) - Content-focused GEO with comprehensive optimization strategies.
 - [Victorious](https://victorious.com/) - Award-winning for technical precision. Structured content, rich snippets, prompt-based optimizations.
 - [WebFX](https://www.webfx.com/) - Full-service with proprietary OmniSEO™ platform. Tracks client/competitor performance across AI-driven search.
