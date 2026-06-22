@@ -104,6 +104,7 @@ Major SEO platforms that have added AI search optimization capabilities:
 ### Utilities & Generators
 
 #### Open Source Data / Evals
+- [AI Crawler Bots](https://github.com/TryGeoSuite/ai-crawler-bots) - Open-source CLI and GitHub Action that audits robots.txt for AI crawler access, computes an AI-visibility score, and reads access logs to confirm which AI bots crawled.
 - [AI Product Bench](https://github.com/amplifying-ai/ai-product-bench) - Benchmark for AI product visibility.
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
