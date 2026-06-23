@@ -105,6 +105,7 @@ Major SEO platforms that have added AI search optimization capabilities:
 
 #### Open Source Data / Evals
 - [AI Product Bench](https://github.com/amplifying-ai/ai-product-bench) - Benchmark for AI product visibility.
+- [AI Readiness Checker](https://github.com/epistemedeus/ai-readiness) - Open-source, zero-dependency CLI (`npx github:epistemedeus/ai-readiness <url>`) that scores whether AI engines (GPTBot, ClaudeBot, PerplexityBot, Google-Extended, CCBot) can crawl and understand a site: crawler access, JSON-LD, metadata, sitemap, llms.txt, with concrete fixes. Also a free no-signup [web version](https://samedaydesk.com/tools/ai-readiness).
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
 #### llms.txt Generators
