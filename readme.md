@@ -83,6 +83,7 @@ Purpose-built platforms for AI search optimization, monitoring, and brand visibi
 - [Peasy](https://peasy.so/) - Specialized crawl audits and technical analysis for AI search engine visibility.
 - [Peec.ai](https://peec.ai/) - AI search visibility platform with competitive analysis and optimization recommendations.
 - [Profound](https://www.tryprofound.com/) - Enterprise benchmark platform. $35M Series B (Sequoia Capital). Tracks ChatGPT, Claude, Perplexity, Gemini. Share of voice, sentiment analysis, prompt-level rankings.
+- [Rankfor.AI](https://rankfor.ai/) - European (Poland/Estonia) AI visibility and reputation platform. Measures how ChatGPT, Gemini, Claude and Perplexity describe and recommend a brand, scores cross-model consistency, and generates content to close the gaps. GDPR and EU AI Act aligned; method published as academic preprints with open datasets.
 - [Rankscale](https://rankscale.ai/) - AI-first SEO platform with GEO capabilities for enterprise brands.
 - [Rankshift](https://rankshift.com/) - Position tracking and visibility monitoring for AI-powered search platforms.
 - [Scrunch](https://scrunch.com/) - Agent Experience Platform (AXP) for making websites legible to AI engines. Monitoring and active optimization.
@@ -125,6 +126,7 @@ Major SEO platforms that have added AI search optimization capabilities:
 - [AI Platform Citation Patterns](https://www.tryprofound.com/blog/ai-platform-citation-patterns) - Analysis of how ChatGPT, Google AI Overviews, and Perplexity cite sources differently. *Wikipedia dominates ChatGPT at 47.9% of top citations; Reddit appears heavily in Gemini and Perplexity.*.
 - [Conductor 2026 AEO/GEO Benchmarks Report](https://www.conductor.com/academy/aeo-geo-benchmarks-report/) - Industry's first large-scale AEO/GEO analysis across 13,770 domains, 21.9M searches, and 17M AI responses. *Key finding: ChatGPT drives 87.4% of AI referral traffic; AI referral conversions are 2× higher than traditional sources.*.
 - [State of AI Search Optimization 2026](https://www.growth-memo.com/p/state-of-ai-search-optimization-2026) - Kevin Indig's comprehensive analysis of LLM citation patterns and visibility factors. *Reports 24% of ChatGPT responses generated without fetching online content; content under 3 months old is 3× more likely to be cited.*.
+- [Source Composition of AI Answers](https://doi.org/10.5281/zenodo.20788142) - Rankfor.AI analysis of 167,551 citations in AI-generated answers with an open dataset (2026). *85.7% of AI answer citations point to third-party sources, not brand websites; citations concentrate heavily in a small share of domains.*.
 
 ### Knowledge Conflicts & Retrieval
 
