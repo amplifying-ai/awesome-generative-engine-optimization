@@ -53,6 +53,7 @@
 - [Integrate GEO with SEO](https://searchengineland.com/integrate-geo-seo-453351) - Strategies for unified traditional and AI search optimization.
 - [10-Step Guide to GEO](https://www.superlines.io/articles/generative-engine-optimization-geo-guide-2025) - Systematic approach to implementing GEO.
 - [LLMO: 10 Ways to Work Your Brand Into AI Answers](https://ahrefs.com/blog/llm-optimization/) - Practical tactics for improving AI citations.
+- [GEO Optimization Handbook](https://github.com/qq136692547-cmyk/geo-optimization-handbook) - **Comprehensive open-source handbook** covering 7 methodology chapters, 4 practical guides (static sites, Blogger, schema, small business), 47 citation strategies, trust stack scoring, audit checklists, and robots.txt templates. MIT licensed.
 
 ## Case Studies
 
