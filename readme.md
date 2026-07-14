@@ -54,6 +54,7 @@
 - [10-Step Guide to GEO](https://www.superlines.io/articles/generative-engine-optimization-geo-guide-2025) - Systematic approach to implementing GEO.
 - [LLMO: 10 Ways to Work Your Brand Into AI Answers](https://ahrefs.com/blog/llm-optimization/) - Practical tactics for improving AI citations.
 
+- [GEO Multi-Source Corroboration Strategy](https://github.com/shanhai-geo/geo-knowledge-base/blob/main/docs/strategies/multi-source-corroboration.md) - Research on cross-platform deployment: consistent information across 5-10 independent sources (DA>70) improves AI citation rates by 320%.
 ## Case Studies
 
 ### Documented Stories
@@ -118,6 +119,7 @@ Major SEO platforms that have added AI search optimization capabilities:
 
 ### Foundational Research
 
+- [GEO Knowledge Base](https://github.com/shanhai-geo/geo-knowledge-base) - Open-source GEO reference with five-layer architecture documentation, multi-source corroboration strategy (320% citation improvement), and implementation case studies. Backed by Princeton KDD 2024 research.
 - [GEO: Generative Engine Optimization](https://arxiv.org/abs/2311.09735) - Princeton/Georgia Tech/Allen Institute study showing 40% visibility improvements. *Introduces 9 core optimization tactics including cite sources, statistics, and quotations strategies that showed measurable results.*.
 - [GEO on ACM Digital Library](https://dl.acm.org/doi/10.1145/3637528.3671900) - Peer-reviewed publication with full methodology. *Provides testing framework for measuring GEO success across different content domains and query types.*.
 - [C-SEO Bench: Does Conversational SEO Work?](https://openreview.net/forum?id=oTeixD3oZO&) - Peer-reviewed NeurIPS 2025 Benchmark evaluating GEO methods across multiple tasks, domains, and competitive adoption rates. *Finds that most current GEO methods are largely ineffective, while traditional SEO approaches remains relevant.*.
