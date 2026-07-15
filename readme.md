@@ -70,6 +70,8 @@
 
 ### Dedicated GEO Platforms
 
+- [KusiGEO](https://kusiai.es/) — AI visibility audit tool for ChatGPT, Gemini, Perplexity and AI Overviews; measures brand mentions, entity clarity and citation readiness.
+
 Purpose-built platforms for AI search optimization, monitoring, and brand visibility:
 
 - [AthenaHQ](https://www.athenahq.ai/) - Y Combinator-backed. Founded by ex-Google Search and DeepMind leaders. Unified GEO scoring. Claims 70+ customers with 10× AI traffic increases.
