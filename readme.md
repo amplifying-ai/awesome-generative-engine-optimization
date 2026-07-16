@@ -352,6 +352,7 @@ Agencies offering dedicated generative engine optimization services:
 - [Awesome-GEO by DavidHuji](https://github.com/DavidHuji/Awesome-GEO) - Research-focused GEO paper collection.
 - [Awesome SEO](https://github.com/teles/awesome-seo) - Traditional SEO resources that complement GEO strategies.
 - [Awesome AI GTM](https://github.com/ong/awesome-ai-gtm) - AI-powered Go-To-Market tools, including an AI Visibility & GEO section.
+- [Marketingskills SEO](https://github.com/coreyhaines31/seo) - SEO agent skills for AI workflows: 20+ SKILL.md files covering technical SEO, programmatic SEO, schema markup, content optimization, and GEO. Install via `curl -fsSL marketingskills.net/seo | bash`.
 
 ## Footnotes
 
