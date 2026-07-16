@@ -63,6 +63,7 @@
 - [Influencing ChatGPT Results](https://gofishdigital.com/blog/seo-case-study-how-we-influenced-the-chatgpt-search-results/) - Real-time optimization.
 - [115% Visibility - Geneva Worldwide](https://boulderseomarketing.com/seo-case-studies/how-this-translation-transcription-and-interpretation-company-dominated-ai-overviews/) - AI Overviews domination.
 - [7× Growth - Ramp Fintech](https://www.tryprofound.com/case-studies/ramp) - 3.2% to 22.2% visibility.
+- [From Flat to 2,400 Search Clicks in 30 Days](https://zilwaris.com/case-study-ai-image-tool/) - How an AI image tool made ChatGPT its third-largest traffic source in 30 days through citation-focused content.
 - [How to Appear in Generative AI Searches](https://github.com/amplifying-ai/awesome-generative-engine-optimization/blob/42a04a67b77bcb4df6152a2151ed32b148530ee9/presentations/Exposure%20Ninja%20How%20to%20Appear%20in%20Generative%20AI%20Searches.pdf) - Exposure Ninja presentation.
 
 
@@ -221,6 +222,7 @@ McKinsey projects agentic commerce will reach $3-5 trillion by 2030. Major playe
 - [Track AI Visibility Across Platforms](https://searchengineland.com/how-to-track-visibility-across-ai-platforms-454251) - Cross-platform tracking methodologies and frameworks.
 - [LLM Optimization Tracking](https://searchengineland.com/llm-optimization-tracking-visibility-ai-discovery-463860) - Emerging approaches for AI discovery measurement.
 - [AI Search Traffic in GA4](https://www.seoclarity.net/blog/track-ai-search-traffic) - Setup guide for tracking AI-referred traffic in Google Analytics.
+- [How to Run Your Own AI Search Visibility Audit](https://zilwaris.com/how-to-audit-your-ai-search-visibility/) - Step-by-step method with a 20-prompt map and a free Excel audit template (no email gate) for finding what AI engines say about your brand.
 - [Measuring GEO Success](https://www.purplexmarketing.com/news/measuring-success-in-geo) - KPI framework for generative engine optimization.
 - [AI Brand Footprint Measurement](https://www.wholewhale.com/tips/measuring-your-ai-brand-footprint-the-hidden-visibility-challenge/) - Approaches to measuring brand visibility in AI responses.
 - [Guide to LLM Tracking Tools](https://nicklafferty.com/blog/llm-tracking-tools/) - Comprehensive platform comparison and evaluation criteria.
