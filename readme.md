@@ -160,6 +160,7 @@ Major SEO platforms that have added AI search optimization capabilities:
 - [Who is Using llms.txt?](https://www.llms-text.com/blog/sites-using-llms-txt) - Examples and adoption patterns across AI/ML, Developer Tools, and SaaS sectors.
 - [llms.txt Directory](https://stackfox.co/llms-txt) - Directory of llms.txt files.
 - [llms.txt Directory](https://directory.llmstxt.cloud/) - Community-driven directory of implementations.
+- [CitedIndex](https://citedindex.com/) - Curated, quality-gated directory of AI-visibility & GEO tools; every listing is a researched, sourced, last-verified record. Fully machine-readable (llms.txt, llms-full.txt, per-listing markdown twins, listings.json, and an MCP endpoint) for LLM ingestion.
 
 ### AI Crawlers
 
