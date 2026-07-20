@@ -30,6 +30,7 @@
 - [What is GEO?](https://searchengineland.com/what-is-generative-engine-optimization-geo-444418) - Search Engine Land primer.
 - [GEO vs SEO Differences](https://seo.ai/blog/generative-engine-optimization-geo-vs-search-engine-optimization-seo) - Key distinctions.
 - [Beginner's Guide to GEO](https://aioseo.com/generative-engine-optimization-geo/) - Step-by-step introduction.
+- [GEO Optimization Handbook](https://github.com/qq136692547-cmyk/geo-optimization-handbook) - Open-source comprehensive handbook: 7 methodology chapters, 4 practical guides, checklists, and templates. Covers 47 citation strategies, 8-dimension audit scoring, and 5-layer trust stack.
 
 ### Platform-Specific Optimization
 
