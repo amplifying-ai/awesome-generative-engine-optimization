@@ -45,6 +45,11 @@
 - [Perplexity Ranking Factors Deep Dive](https://firstpagesage.com/seo-blog/perplexity-ai-optimization-ranking-factors-and-strategy/) - Detailed analysis of Perplexity's 3-layer reranking system.
 - [59+ Perplexity Ranking Patterns](https://metehan.ai/blog/perplexity-ai-seo-59-ranking-patterns/) - Browser-level code analysis revealing specific ranking factors.
 
+#### Chinese AI Platforms (DeepSeek, Doubao, Qwen, Kimi)
+
+- [Which AI Search Platforms Matter in China?](https://visibilityatlas.com/blog/which-ai-search-platforms-matter-in-china/) - Overview of DeepSeek, Doubao, Qwen, Kimi, Tencent Yuanbao, and Baidu AI surfaces, with a repeatable cross-platform brand testing protocol.
+- [DeepSeek vs Doubao vs Qwen Brand Visibility](https://visibilityatlas.com/blog/deepseek-vs-doubao-vs-qwen-brand-visibility/) - How brand mentions, citations, and competitor substitution differ across China's major AI assistants.
+
 ### Technical Implementation
 
 - [AI Optimization Technical Guide](https://searchengineland.com/ai-optimization-how-to-optimize-your-content-for-ai-search-and-agents-451287) - Comprehensive technical overview of content optimization for AI systems.
@@ -335,6 +340,7 @@ Agencies offering dedicated generative engine optimization services:
 - [RevenueZen](https://revenuezen.com/) - B2B GEO specialists for growth-stage companies.
 - [Siege Media](https://www.siegemedia.com/) - Content-focused GEO with comprehensive optimization strategies.
 - [Victorious](https://victorious.com/) - Award-winning for technical precision. Structured content, rich snippets, prompt-based optimizations.
+- [Visibility Atlas](https://visibilityatlas.com/) - China-focused GEO consultancy. Audits brand visibility and citations across DeepSeek, Doubao, Qwen, Kimi, and Baidu AI for international brands.
 - [WebFX](https://www.webfx.com/) - Full-service with proprietary OmniSEO™ platform. Tracks client/competitor performance across AI-driven search.
 
 #### Agency Directories & Reviews
