@@ -103,6 +103,9 @@ Major SEO platforms that have added AI search optimization capabilities:
 
 ### Utilities & Generators
 
+#### Reporting Templates
+- [AI Visibility Report Template](https://seoreportkit.com/ai-visibility/ai-visibility-report-template/) - Free client-reporting template for documenting prompt coverage, engine visibility, cited sources, competitor mentions, findings, owners, and next actions.
+
 #### Open Source Data / Evals
 - [AI Product Bench](https://github.com/amplifying-ai/ai-product-bench) - Benchmark for AI product visibility.
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
