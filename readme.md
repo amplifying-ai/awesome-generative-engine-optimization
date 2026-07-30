@@ -139,6 +139,7 @@ Major SEO platforms that have added AI search optimization capabilities:
 - [Adversarial SEO for LLMs](https://arxiv.org/abs/2406.18382) - Hidden text boosts mentions 2.5× in AI answers. *Demonstrates manipulation techniques, highlighting the importance of legitimate optimization approaches.*.
 - [Ranking Manipulation for Conversational Search](https://arxiv.org/abs/2406.03589) - Prompt injection for ranking manipulation. *Shows how on-page content can influence AI rankings through strategic text structures.*.
 - [Persistent Pre-Training Poisoning of LLMs](https://arxiv.org/abs/2410.13722) - Long-term poisoning attack strategies. *Suggests why maintaining fresh, authoritative content matters as AI systems update their training data.*.
+- [Agent-Directed Manipulation](https://github.com/perpensum/agent-directed-manipulation) - Testable definition separating manipulation from legitimate machine-readable optimization. *Draws the line the research above describes: two mechanically decidable axes and 18 conformance cases, 13 of which expect no finding, so structured data, llms.txt and ordinary marketing copy are never flagged.*.
 
 
 
