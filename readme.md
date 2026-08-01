@@ -78,6 +78,7 @@ Purpose-built platforms for AI search optimization, monitoring, and brand visibi
 - [GenRank](https://genrank.io/) - Timeline visualization and competitor benchmarking for AI visibility trends.
 - [Geoptie](https://geoptie.com/) - Helps you optimize your content for AI search engines and track your performance across multiple platforms.
 - [Goodie](https://higoodie.com/) - Leading AI-native GEO platform founded by experts from major tech companies. Comprehensive suite of GEO optimization and monitoring tools.
+- [Glotier](https://glotier.com/) - Affordable AI-visibility measurement across ChatGPT, Gemini and Perplexity, with a free page-readiness check. Publishes its method and an open dataset.
 - [GEOmetrics](https://trygeometrics.com/) - Hallucination detection and fixing for improved AI citation accuracy.
 - [Otterly.AI](https://otterly.ai/) - Focused on link citation analysis for Google AI Overview and Perplexity. Timeline tracking and competitive benchmarking.
 - [Peasy](https://peasy.so/) - Specialized crawl audits and technical analysis for AI search engine visibility.
