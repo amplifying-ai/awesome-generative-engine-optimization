@@ -227,6 +227,11 @@ McKinsey projects agentic commerce will reach $3-5 trillion by 2030. Major playe
 - [LLM Tracking Tools Overview](https://nightwatch.io/blog/llm-tracking-tools/) - Feature comparison across major tracking platforms.
 - [AI Search Visibility Tools Directory](https://www.rankability.com/blog/best-ai-search-visibility-tracking-tools/) - Comprehensive directory of tracking tools.
 
+### Open Datasets
+
+- [AI Visibility Index — SaaS](https://dabyte.ai/) - Weekly open dataset (JSON/CSV, CC BY 4.0) of share-of-answer for 20 SaaS brands across ChatGPT, Perplexity and Gemini, with a verbatim archive of every measurement.
+- [AI Visibility Index — Crypto](https://dablock.ai/) - Same weekly share-of-answer methodology for 24 crypto/Web3 brands; frozen versioned prompt panels, full time series via free API.
+
 
 
 ## Newsletters & Blogs
