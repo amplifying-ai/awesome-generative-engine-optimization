@@ -76,7 +76,8 @@ Purpose-built platforms for AI search optimization, monitoring, and brand visibi
 - [Bluefish AI](https://bluefishai.com/) - $5M funded. Specializes in brand safety and source attribution. "Source graph" showing how Wikipedia, forums, PDFs influence outputs. AI ad campaigns.
 - [GeckoCheck](https://geckocheck.com/) - Platform that helps merchants and brands optimize visibility, dominate AIsearch results, and deliver answers to billions of daily shoppers.
 - [GenRank](https://genrank.io/) - Timeline visualization and competitor benchmarking for AI visibility trends.
-- [Geoptie](https://geoptie.com/) - Helps you optimize your content for AI search engines and track your performance across multiple platforms.
+- [GEO-Score](https://geo-score.online) - Free checker that scores any URL (0-100) on how well it's optimized to be cited by ChatGPT, Perplexity, Claude and Google AI Overviews. No signup required.
+- - [Geoptie](https://geoptie.com/) - Helps you optimize your content for AI search engines and track your performance across multiple platforms.
 - [Goodie](https://higoodie.com/) - Leading AI-native GEO platform founded by experts from major tech companies. Comprehensive suite of GEO optimization and monitoring tools.
 - [GEOmetrics](https://trygeometrics.com/) - Hallucination detection and fixing for improved AI citation accuracy.
 - [Otterly.AI](https://otterly.ai/) - Focused on link citation analysis for Google AI Overview and Perplexity. Timeline tracking and competitive benchmarking.
