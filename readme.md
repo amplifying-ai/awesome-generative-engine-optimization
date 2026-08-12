@@ -89,6 +89,7 @@ Purpose-built platforms for AI search optimization, monitoring, and brand visibi
 - [ZipTie](https://ziptie.ai/) - Brand visibility monitoring across generative AI platforms with detailed breakdowns.
 - [Knowatoa](https://knowatoa.com/) - AI search analytics platform tracking brand mentions across ChatGPT, Claude, and Perplexity.
 - [Daydream](https://www.withdaydream.com/) - AI visibility optimization platform with focus on content discoverability.
+- [Kurage GEO](https://kurage.exbridge.jp/kgeo.php) - Japanese-language GEO audit and AI-search visibility monitoring. Deterministically diagnoses missing llms.txt / JSON-LD and suggests fixes (no LLM needed for the audit). Free tier available.
 
 ### Enterprise SEO Platforms with GEO Features
 
