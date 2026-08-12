@@ -330,6 +330,7 @@ Agencies offering dedicated generative engine optimization services:
 - [Growth Plays](https://www.growthplays.com/) - Data-driven GEO and content strategies.
 - [Ignite Visibility](https://ignitevisibility.com/) - Full-service digital marketing with GEO capabilities.
 - [iPullRank](https://ipullrank.com/) - Enterprise-focused. Semantic optimization, conversational search, scalable information architecture for LLM parsing.
+- [Mentioned](https://mentioned.to/) - Reddit-focused GEO. Targets the Reddit threads that rank on Google and get cited by LLMs, then reports share of voice vs competitors.
 - [Obility](https://www.obilityb2b.com/) - B2B marketing focus with GEO integration.
 - [Omniscient Digital](https://beomniscient.com/) - Helps websites become trusted sources cited by LLMs. Integrated SEO+GEO approach.
 - [RevenueZen](https://revenuezen.com/) - B2B GEO specialists for growth-stage companies.
