@@ -325,6 +325,7 @@ These platforms are frequently cited by AI engines - building presence here impr
 
 Agencies offering dedicated generative engine optimization services:
 
+- [askchat.studio](https://askchat.studio/) - GEO for local wellness businesses: med spas, day spas, and salons. Free check shows which sources AI cites for a given city.
 - [Avenue Z](https://avenuez.com/) - Serves FinTech, B2B SaaS, HealthTech, DTC eCommerce.
 - [First Page Sage](https://firstpagesage.com/) - Top-rated GEO agency serving Salesforce, Logitech. Specializes in B2B SaaS, medtech, manufacturing.
 - [Growth Plays](https://www.growthplays.com/) - Data-driven GEO and content strategies.
