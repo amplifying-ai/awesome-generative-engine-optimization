@@ -107,6 +107,9 @@ Major SEO platforms that have added AI search optimization capabilities:
 - [AI Product Bench](https://github.com/amplifying-ai/ai-product-bench) - Benchmark for AI product visibility.
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
+#### Local / CI linters
+- [aeoptimize](https://github.com/cucuwang/aeoptimize) - Deterministic local/CI content-readiness lint for static sites and docs. The score is a versioned heuristic for catching regressions, not a forecast of ranking or AI citation.
+
 #### llms.txt Generators
 - [Apify Generator](https://apify.com/jakub.kopecky/llmstxt-generator) - Scraping-based generator.
 - [llmstxtgenerator.org](https://llmstxtgenerator.org/) - Web-based generator.
