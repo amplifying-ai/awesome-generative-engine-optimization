@@ -163,6 +163,7 @@ Major SEO platforms that have added AI search optimization capabilities:
 
 ### AI Crawlers
 
+- [AI Crawler Access Reference](https://github.com/alternatefutures/ai-crawler-access-reference) - Source-linked OpenAI, Anthropic, Perplexity, and Google robots.txt controls, with machine-readable data and examples separating search discovery, training collection, and user-triggered retrieval.
 - [AI Crawler User Agents List by Company](https://stackfox.co/bots) - Directory of AI bots and crawlers.
 - [AI Crawler User Agents List](https://momenticmarketing.com/blog/ai-search-crawlers-bots) - Comprehensive list updated monthly.
 - [The Rise of AI Crawlers](https://vercel.com/blog/the-rise-of-the-ai-crawler) - Analysis of 1.3B crawler requests.
