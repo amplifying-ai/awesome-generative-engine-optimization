@@ -30,6 +30,7 @@
 - [What is GEO?](https://searchengineland.com/what-is-generative-engine-optimization-geo-444418) - Search Engine Land primer.
 - [GEO vs SEO Differences](https://seo.ai/blog/generative-engine-optimization-geo-vs-search-engine-optimization-seo) - Key distinctions.
 - [Beginner's Guide to GEO](https://aioseo.com/generative-engine-optimization-geo/) - Step-by-step introduction.
+- [AI SEO Guide 2026](https://500k.io/journal/ai-seo-guide) - Dual playbook: ranking in Google while earning AI citations, with the citation formula and a 90-day plan.
 
 ### Platform-Specific Optimization
 
@@ -64,6 +65,7 @@
 - [115% Visibility - Geneva Worldwide](https://boulderseomarketing.com/seo-case-studies/how-this-translation-transcription-and-interpretation-company-dominated-ai-overviews/) - AI Overviews domination.
 - [7× Growth - Ramp Fintech](https://www.tryprofound.com/case-studies/ramp) - 3.2% to 22.2% visibility.
 - [How to Appear in Generative AI Searches](https://github.com/amplifying-ai/awesome-generative-engine-optimization/blob/42a04a67b77bcb4df6152a2151ed32b148530ee9/presentations/Exposure%20Ninja%20How%20to%20Appear%20in%20Generative%20AI%20Searches.pdf) - Exposure Ninja presentation.
+- [GEO Before Google - 500k.io Live Experiment](https://500k.io/journal/how-to-rank-in-perplexity-dr-zero-reality) - New domain earning Perplexity/ChatGPT citations at DR 0 while Google traffic stayed near zero; numbers published as they happen.
 
 
 ## Tools & Software
