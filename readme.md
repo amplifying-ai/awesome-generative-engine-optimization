@@ -88,6 +88,7 @@ Purpose-built platforms for AI search optimization, monitoring, and brand visibi
 - [Scrunch](https://scrunch.com/) - Agent Experience Platform (AXP) for making websites legible to AI engines. Monitoring and active optimization.
 - [ZipTie](https://ziptie.ai/) - Brand visibility monitoring across generative AI platforms with detailed breakdowns.
 - [Knowatoa](https://knowatoa.com/) - AI search analytics platform tracking brand mentions across ChatGPT, Claude, and Perplexity.
+- [Ooky](https://ooky.ai/) - Tracks how ChatGPT, Gemini and Perplexity describe a brand, then serves a distilled HTML + JSON-LD version of the site to AI crawlers at the Cloudflare edge (or via SDK / WordPress plugin) and logs AI-bot sessions. Free plan available.
 - [Daydream](https://www.withdaydream.com/) - AI visibility optimization platform with focus on content discoverability.
 
 ### Enterprise SEO Platforms with GEO Features
