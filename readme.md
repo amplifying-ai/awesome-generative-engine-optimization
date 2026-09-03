@@ -326,6 +326,7 @@ These platforms are frequently cited by AI engines - building presence here impr
 Agencies offering dedicated generative engine optimization services:
 
 - [Avenue Z](https://avenuez.com/) - Serves FinTech, B2B SaaS, HealthTech, DTC eCommerce.
+- [Avisible](https://www.avisible.co/) - Helsinki-based AI visibility consultancy for Nordic and European brands. Measures how ChatGPT, Gemini, Copilot, and Perplexity describe and recommend brands; fixed-price Visibility Snapshot audit plus ongoing tracking with its own platform.
 - [First Page Sage](https://firstpagesage.com/) - Top-rated GEO agency serving Salesforce, Logitech. Specializes in B2B SaaS, medtech, manufacturing.
 - [Growth Plays](https://www.growthplays.com/) - Data-driven GEO and content strategies.
 - [Ignite Visibility](https://ignitevisibility.com/) - Full-service digital marketing with GEO capabilities.
