@@ -89,6 +89,7 @@ Purpose-built platforms for AI search optimization, monitoring, and brand visibi
 - [ZipTie](https://ziptie.ai/) - Brand visibility monitoring across generative AI platforms with detailed breakdowns.
 - [Knowatoa](https://knowatoa.com/) - AI search analytics platform tracking brand mentions across ChatGPT, Claude, and Perplexity.
 - [Daydream](https://www.withdaydream.com/) - AI visibility optimization platform with focus on content discoverability.
+- [Greadme](https://www.greadme.com/) - Website audits that check whether AI systems can access and cite a site, validate structured data, and turn every finding into a fix you can copy. Schema Validator and AI Access Checker are free with no signup.
 
 ### Enterprise SEO Platforms with GEO Features
 
