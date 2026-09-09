@@ -168,6 +168,7 @@ Major SEO platforms that have added AI search optimization capabilities:
 - [The Rise of AI Crawlers](https://vercel.com/blog/the-rise-of-the-ai-crawler) - Analysis of 1.3B crawler requests.
 - [How OpenAI Crawls Websites](https://www.withdaydream.com/library/how-openai-crawls-and-indexes-your-website) - Technical breakdown.
 - [AI Crawlers Can't Execute JavaScript](https://prerender.io/blog/how-to-optimize-your-website-for-ai-crawlers/) - Critical limitation analysis.
+- [AI Crawler Access Census](https://ai-visibility.lastminutedealshq.com/data) - Original robots.txt crawl of 4,999 sites (Tranco top 5,000) checked against 20 AI crawlers. Finding: 44% of sites blocking GPTBot (training) also block OAI-SearchBot, the crawler that indexes pages for ChatGPT search, usually without meaning to. Raw dataset in JSON, CC BY 4.0.
 
 ### Structured Data
 
