@@ -107,7 +107,12 @@ Major SEO platforms that have added AI search optimization capabilities:
 - [AI Product Bench](https://github.com/amplifying-ai/ai-product-bench) - Benchmark for AI product visibility.
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
+#### Free GEO Utilities
+- [Superflow AI Visibility Checker](https://usesuperflow.ai/tools/ai-visibility-checker?utm_source=awesome-geo&utm_medium=directory&utm_campaign=free-tools) - Free GPTBot fetch, JS readability, and CDN compare. No login.
+- [Superflow robots.txt AI Checker](https://usesuperflow.ai/tools/robots-txt-ai-checker?utm_source=awesome-geo&utm_medium=directory&utm_campaign=free-tools) - Checks AI crawler rules in robots.txt and probes CDN/WAF blocks. Free, no login.
+
 #### llms.txt Generators
+- [Superflow llms.txt Generator](https://usesuperflow.ai/tools/llms-txt-generator?utm_source=awesome-geo&utm_medium=directory&utm_campaign=free-tools) - Generate an llms.txt from any URL. Free, no login.
 - [Apify Generator](https://apify.com/jakub.kopecky/llmstxt-generator) - Scraping-based generator.
 - [llmstxtgenerator.org](https://llmstxtgenerator.org/) - Web-based generator.
 - [WordLift Generator](https://wordlift.io/generate-llms-txt/) - WordPress integration.
