@@ -109,6 +109,7 @@ Major SEO platforms that have added AI search optimization capabilities:
 
 #### llms.txt Generators
 - [Apify Generator](https://apify.com/jakub.kopecky/llmstxt-generator) - Scraping-based generator.
+- [GeoPromptTracker](https://geoprompttracker.com/tools/llms-txt-generator) - Browser-based generator with a companion validator; no account required.
 - [llmstxtgenerator.org](https://llmstxtgenerator.org/) - Web-based generator.
 - [WordLift Generator](https://wordlift.io/generate-llms-txt/) - WordPress integration.
 
@@ -165,6 +166,7 @@ Major SEO platforms that have added AI search optimization capabilities:
 
 - [AI Crawler User Agents List by Company](https://stackfox.co/bots) - Directory of AI bots and crawlers.
 - [AI Crawler User Agents List](https://momenticmarketing.com/blog/ai-search-crawlers-bots) - Comprehensive list updated monthly.
+- [GeoPromptTracker AI Bot Directory](https://geoprompttracker.com/bots) - Directory of 28 AI crawler user agents with per-bot robots.txt rules, operator-published IP ranges, and an open CC BY 4.0 dataset (JSON/CSV).
 - [The Rise of AI Crawlers](https://vercel.com/blog/the-rise-of-the-ai-crawler) - Analysis of 1.3B crawler requests.
 - [How OpenAI Crawls Websites](https://www.withdaydream.com/library/how-openai-crawls-and-indexes-your-website) - Technical breakdown.
 - [AI Crawlers Can't Execute JavaScript](https://prerender.io/blog/how-to-optimize-your-website-for-ai-crawlers/) - Critical limitation analysis.
