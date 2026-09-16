@@ -155,6 +155,7 @@ Major SEO platforms that have added AI search optimization capabilities:
 
 #### Adoption & Directories
 - [LLMS.txt Adoption Research Report 2025](https://www.rankability.com/data/llms-txt-adoption/) - Updated monthly tracking showing 784+ websites implementing llms.txt/llms-full.txt (0.3% of top 1,000 websites as of June 2025).
+- [llms.txt Statistics 2026](https://www.stackscan.com/blog/llms-txt-statistics) - Adoption measured across 151.6 million live websites: 11.8% serve the file, Wix and GoDaddy generated two fifths of them, and 723,109 carry a directive that exists in no specification.
 - [Google Adds llms.txt to Search Central Docs](https://www.omnius.so/industry-updates/google-adds-llms-txt-to-docs-after-publicly-dismissing-it) - On December 3, 2025, Google quietly added then removed llms.txt from Search Central documentation the same day, despite previously dismissing the standard.
 - [Companies Using llms.txt](https://llms-txt.io/blog/companies-using-llms-txt-examples) - Implementations by Zapier, Stripe, Cloudflare, Anthropic, Vercel, Supabase, ElevenLabs.
 - [Who is Using llms.txt?](https://www.llms-text.com/blog/sites-using-llms-txt) - Examples and adoption patterns across AI/ML, Developer Tools, and SaaS sectors.
@@ -168,6 +169,7 @@ Major SEO platforms that have added AI search optimization capabilities:
 - [The Rise of AI Crawlers](https://vercel.com/blog/the-rise-of-the-ai-crawler) - Analysis of 1.3B crawler requests.
 - [How OpenAI Crawls Websites](https://www.withdaydream.com/library/how-openai-crawls-and-indexes-your-website) - Technical breakdown.
 - [AI Crawlers Can't Execute JavaScript](https://prerender.io/blog/how-to-optimize-your-website-for-ai-crawlers/) - Critical limitation analysis.
+- [AI Crawler Statistics 2026](https://www.stackscan.com/blog/ai-crawler-statistics) - Blocking measured across 151.6 million live websites: 6.9% of sites with a robots.txt block GPTBot, and sites behind Cloudflare block it at 23.0% against 1.5% for everyone else.
 
 ### Structured Data
 
