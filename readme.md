@@ -334,6 +334,7 @@ Agencies offering dedicated generative engine optimization services:
 - [Omniscient Digital](https://beomniscient.com/) - Helps websites become trusted sources cited by LLMs. Integrated SEO+GEO approach.
 - [RevenueZen](https://revenuezen.com/) - B2B GEO specialists for growth-stage companies.
 - [Siege Media](https://www.siegemedia.com/) - Content-focused GEO with comprehensive optimization strategies.
+- [SourceRank AI](https://sourcerankai.com/) - Done-for-you AEO for B2B. Citation share measured on a fixed question set across ChatGPT, Gemini, Copilot, AI Mode and AI Overviews, with a published methodology.
 - [Victorious](https://victorious.com/) - Award-winning for technical precision. Structured content, rich snippets, prompt-based optimizations.
 - [WebFX](https://www.webfx.com/) - Full-service with proprietary OmniSEO™ platform. Tracks client/competitor performance across AI-driven search.
 
