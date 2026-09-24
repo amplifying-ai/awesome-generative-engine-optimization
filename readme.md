@@ -98,6 +98,7 @@ Major SEO platforms that have added AI search optimization capabilities:
 - [ChatGPT Rank Tracker](https://chatgptrank.com/) - Dedicated SearchGPT/ChatGPT Search visibility tracking.
 - [Create & Grow AI Overview Tracker](https://createandgrow.com/) - Focused on Google AI Overviews mention tracking.
 - [HubSpot AI Search Grader](https://www.hubspot.com/) - Free AI Search Grader tool. LLM-referred visitor segmentation. Acquired XFunnel (Jan 2025) for AI search simulations and transparency.
+- [Screpy AI Visibility](https://screpy.com/feature/ai-visibility/) - Tracks selected prompts across supported AI platforms, including brand mentions, citations, source URLs, sentiment, and competitor share of voice.
 - [SEMrush](https://www.semrush.com/) - AI Visibility Toolkit ($99/month per domain). Position Tracking for AI Overviews. Enterprise AIO for brand mentions, sentiment, prompt rankings across ChatGPT, Perplexity, Gemini, Claude. 100M+ prompt database.
 - [Writesonic](https://writesonic.com/) - Multi-platform tracking with content creation integration for ChatGPT, Google AI Overviews, Perplexity, Claude, Gemini.
 
