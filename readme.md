@@ -72,6 +72,7 @@
 
 Purpose-built platforms for AI search optimization, monitoring, and brand visibility:
 
+- [AnswerLine](https://answerline.dev/) - API returning real answers from ChatGPT, Gemini, Copilot, Google AI Mode, AI Overview and Google News as JSON with cited sources and per-country data. Sync and batch endpoints; MCP server included.
 - [AthenaHQ](https://www.athenahq.ai/) - Y Combinator-backed. Founded by ex-Google Search and DeepMind leaders. Unified GEO scoring. Claims 70+ customers with 10× AI traffic increases.
 - [Bluefish AI](https://bluefishai.com/) - $5M funded. Specializes in brand safety and source attribution. "Source graph" showing how Wikipedia, forums, PDFs influence outputs. AI ad campaigns.
 - [GeckoCheck](https://geckocheck.com/) - Platform that helps merchants and brands optimize visibility, dominate AIsearch results, and deliver answers to billions of daily shoppers.
