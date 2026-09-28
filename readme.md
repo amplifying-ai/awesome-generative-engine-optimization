@@ -30,6 +30,7 @@
 - [What is GEO?](https://searchengineland.com/what-is-generative-engine-optimization-geo-444418) - Search Engine Land primer.
 - [GEO vs SEO Differences](https://seo.ai/blog/generative-engine-optimization-geo-vs-search-engine-optimization-seo) - Key distinctions.
 - [Beginner's Guide to GEO](https://aioseo.com/generative-engine-optimization-geo/) - Step-by-step introduction.
+- [GEO Playbook](https://canlah.ai/playbook/) - Open (CC BY 4.0) method measured on ChatGPT and Google AI Mode, with a blueprint for each of 46 cited-page types; [agent-ready version on GitHub](https://github.com/Canlah-AI/geo-playbook).
 
 ### Platform-Specific Optimization
 
@@ -318,6 +319,7 @@ These platforms are frequently cited by AI engines - building presence here impr
 - [Google December 2025 Core Update Analysis](https://www.gsqi.com/marketing-blog/google-december-2025-broad-core-update-analysis-findings/) - 18-day rollout (Dec 11-29, 2025) with significant AI-driven content ranking shifts.
 - [How Google Search is Changing - January 2026](https://www.digitalthirdcoast.com/blog/ai-mode-use-trends) - Navigational AI Overviews grew from <1% to >10% in 2025; ads alongside AI Overviews rose from ~3% to ~40%.
 - [Our Approach to Advertising and Expanding Access](https://openai.com/index/our-approach-to-advertising-and-expanding-access/) - OpenAI's January 2026 announcement of advertising in ChatGPT. Ads are separate from answers, don't influence responses, and conversations remain private from advertisers.
+- [Singapore GEO Citation Probes, September 2026](https://canlah.ai/data/ai-citations-sg-2026/) - Open dataset (CC BY 4.0, [DOI](https://doi.org/10.5281/zenodo.23005020)): 917 citations from ChatGPT and Google AI Mode for 110 Singapore buyer questions; on the same question the two engines shared 19 of 507 cited URLs.
 
 ### GEO Service Providers
 
