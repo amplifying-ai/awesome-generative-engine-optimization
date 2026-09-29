@@ -36,6 +36,7 @@
 #### Google AI Overviews
 - [Google's Official AI Search Guidance](https://developers.google.com/search/blog/2025/05/succeeding-in-ai-search) - Official guidance from Google Search Central on optimizing for AI experiences.
 - [Google AI Overviews Ultimate Guide](https://www.singlegrain.com/search-everywhere-optimization/google-ai-overviews-the-ultimate-guide-to-ranking-in-2025/) - Comprehensive strategies for AI Overview optimization.
+- [How to Optimize Your Website for Google AI Overviews and AI Search](https://aihustleworld.com/2026/08/how-to-optimize-your-website-for-google-ai-overviews-and-ai-search.html) - Explains the crawl → index → rank → cite chain behind AI Overviews visibility and separates Google's own guidance from industry claims.
 
 #### ChatGPT Search / SearchGPT
 - [How ChatGPT Search Works](https://www.semrush.com/blog/chatgpt-search/) - Technical breakdown of ChatGPT's search functionality and ranking factors.
@@ -49,7 +50,6 @@
 
 - [AI Optimization Technical Guide](https://searchengineland.com/ai-optimization-how-to-optimize-your-content-for-ai-search-and-agents-451287) - Comprehensive technical overview of content optimization for AI systems.
 - [How Vercel Adapts SEO for LLMs](https://vercel.com/blog/how-were-adapting-seo-for-llms-and-ai-search) - Real-world implementation case study from a major platform.
-- [AI Search Optimization: llms.txt Best Practices](https://llmsconverter.com/blog/ai-search-optimization-llms-txt-best-practices/) - Technical implementation guide for llms.txt protocol.
 - [Integrate GEO with SEO](https://searchengineland.com/integrate-geo-seo-453351) - Strategies for unified traditional and AI search optimization.
 - [10-Step Guide to GEO](https://www.superlines.io/articles/generative-engine-optimization-geo-guide-2025) - Systematic approach to implementing GEO.
 - [LLMO: 10 Ways to Work Your Brand Into AI Answers](https://ahrefs.com/blog/llm-optimization/) - Practical tactics for improving AI citations.
@@ -235,7 +235,6 @@ McKinsey projects agentic commerce will reach $3-5 trillion by 2030. Major playe
 
 - [GEO Weekly](https://www.linkedin.com/newsletters/geo-weekly-7284936478098464769/) - Weekly newsletter covering GEO trends, tools, and strategies.
 - [SEO for AI Newsletter](https://www.seoforai.io/newsletter) - Focused coverage of AI search optimization developments.
-- [The AI SEO Brief](https://theaiseobrief.com/) - Curated AI SEO news and insights delivered weekly.
 
 ### Blogs to Follow
 
