@@ -89,6 +89,7 @@ Purpose-built platforms for AI search optimization, monitoring, and brand visibi
 - [ZipTie](https://ziptie.ai/) - Brand visibility monitoring across generative AI platforms with detailed breakdowns.
 - [Knowatoa](https://knowatoa.com/) - AI search analytics platform tracking brand mentions across ChatGPT, Claude, and Perplexity.
 - [Daydream](https://www.withdaydream.com/) - AI visibility optimization platform with focus on content discoverability.
+- [LogNorm](https://lognorm.com/) - Tracks brand mentions in ChatGPT, Gemini and Google AI Overviews answers and runs a GEO audit (AI crawler access, llms.txt, structured data). Findings become ranked tasks that AI agents such as Claude Code, Codex and Cursor pick up over MCP. Free plan available.
 
 ### Enterprise SEO Platforms with GEO Features
 
