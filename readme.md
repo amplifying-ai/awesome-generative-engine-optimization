@@ -89,6 +89,7 @@ Purpose-built platforms for AI search optimization, monitoring, and brand visibi
 - [ZipTie](https://ziptie.ai/) - Brand visibility monitoring across generative AI platforms with detailed breakdowns.
 - [Knowatoa](https://knowatoa.com/) - AI search analytics platform tracking brand mentions across ChatGPT, Claude, and Perplexity.
 - [Daydream](https://www.withdaydream.com/) - AI visibility optimization platform with focus on content discoverability.
+- [MentionsAPI](https://mentionsapi.com) - Developer API for AI brand-visibility tracking. One call fans out to ChatGPT, Claude, Gemini, and Perplexity, plus Google AI Overviews, AI Mode, and Bing Copilot. Returns structured brand mentions: position, sentiment, context, and cited URLs per answer. OpenAPI spec, MCP server, and a free tier for piping AI-visibility data into dashboards, reports, or warehouses.
 
 ### Enterprise SEO Platforms with GEO Features
 
