@@ -318,6 +318,7 @@ These platforms are frequently cited by AI engines - building presence here impr
 - [Google December 2025 Core Update Analysis](https://www.gsqi.com/marketing-blog/google-december-2025-broad-core-update-analysis-findings/) - 18-day rollout (Dec 11-29, 2025) with significant AI-driven content ranking shifts.
 - [How Google Search is Changing - January 2026](https://www.digitalthirdcoast.com/blog/ai-mode-use-trends) - Navigational AI Overviews grew from <1% to >10% in 2025; ads alongside AI Overviews rose from ~3% to ~40%.
 - [Our Approach to Advertising and Expanding Access](https://openai.com/index/our-approach-to-advertising-and-expanding-access/) - OpenAI's January 2026 announcement of advertising in ChatGPT. Ads are separate from answers, don't influence responses, and conversations remain private from advertisers.
+- [What Copilot Cites in B2B: 4,123 AI Citations Studied](https://www.provena-ai.com/blog/ai-search-citation-study) - 29 days of Bing AI Performance data across 165 B2B articles on one template; software category guides took 86% of Copilot citations while alternatives and comparison pages drew none. [Open data](https://github.com/danielmcgrattan2007/b2b-ai-search-citation-study) (CC BY 4.0).
 
 ### GEO Service Providers
 
