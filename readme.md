@@ -226,6 +226,8 @@ McKinsey projects agentic commerce will reach $3-5 trillion by 2030. Major playe
 - [Guide to LLM Tracking Tools](https://nicklafferty.com/blog/llm-tracking-tools/) - Comprehensive platform comparison and evaluation criteria.
 - [LLM Tracking Tools Overview](https://nightwatch.io/blog/llm-tracking-tools/) - Feature comparison across major tracking platforms.
 - [AI Search Visibility Tools Directory](https://www.rankability.com/blog/best-ai-search-visibility-tracking-tools/) - Comprehensive directory of tracking tools.
+- [Prompts GEO (French)](https://github.com/david-corroy/prompts-geo) - 19 French-language prompts to test and improve a business's visibility in AI answers, each with a usage protocol, a reading grid and stated limitations.
+- [AI Visibility Tracking Template (French)](https://github.com/david-corroy/grille-suivi-visibilite-ia) - Free monthly spreadsheet to check whether ChatGPT, Perplexity and Gemini cite a business, with three indicators.
 
 
 
