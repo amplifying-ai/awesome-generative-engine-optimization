@@ -80,6 +80,7 @@ Purpose-built platforms for AI search optimization, monitoring, and brand visibi
 - [Goodie](https://higoodie.com/) - Leading AI-native GEO platform founded by experts from major tech companies. Comprehensive suite of GEO optimization and monitoring tools.
 - [GEOmetrics](https://trygeometrics.com/) - Hallucination detection and fixing for improved AI citation accuracy.
 - [Otterly.AI](https://otterly.ai/) - Focused on link citation analysis for Google AI Overview and Perplexity. Timeline tracking and competitive benchmarking.
+- [PageLens](https://pagelens.io/features/ai-traffic-analytics) - Web analytics with AI Visibility from server logs and the page script: per page, which AI crawlers read it, how often ChatGPT, Claude and Perplexity fetch it live to answer people, and the visitors and revenue they send. Cookieless, EU-hosted.
 - [Peasy](https://peasy.so/) - Specialized crawl audits and technical analysis for AI search engine visibility.
 - [Peec.ai](https://peec.ai/) - AI search visibility platform with competitive analysis and optimization recommendations.
 - [Profound](https://www.tryprofound.com/) - Enterprise benchmark platform. $35M Series B (Sequoia Capital). Tracks ChatGPT, Claude, Perplexity, Gemini. Share of voice, sentiment analysis, prompt-level rankings.
