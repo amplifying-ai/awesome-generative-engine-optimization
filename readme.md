@@ -125,6 +125,8 @@ Major SEO platforms that have added AI search optimization capabilities:
 - [AI Platform Citation Patterns](https://www.tryprofound.com/blog/ai-platform-citation-patterns) - Analysis of how ChatGPT, Google AI Overviews, and Perplexity cite sources differently. *Wikipedia dominates ChatGPT at 47.9% of top citations; Reddit appears heavily in Gemini and Perplexity.*.
 - [Conductor 2026 AEO/GEO Benchmarks Report](https://www.conductor.com/academy/aeo-geo-benchmarks-report/) - Industry's first large-scale AEO/GEO analysis across 13,770 domains, 21.9M searches, and 17M AI responses. *Key finding: ChatGPT drives 87.4% of AI referral traffic; AI referral conversions are 2× higher than traditional sources.*.
 - [State of AI Search Optimization 2026](https://www.growth-memo.com/p/state-of-ai-search-optimization-2026) - Kevin Indig's comprehensive analysis of LLM citation patterns and visibility factors. *Reports 24% of ChatGPT responses generated without fetching online content; content under 3 months old is 3× more likely to be cited.*.
+- [Artificial Intelligence Visibility Index (AIVI)](https://doi.org/10.5281/zenodo.19153037) - Mohanty (2026) preprint on Zenodo. Defines a 0 to 100 index of how often and how prominently generative engines name an entity across a fixed prompt set. *Companion to AIRS below. AIVI = 0.6 x Coverage + 0.4 x Average Rank Score.*.
+- [Artificial Intelligence Reputation Score (AIRS)](https://doi.org/10.5281/zenodo.19122428) - Mohanty (2026) preprint on Zenodo. Defines a 0 to 100 score of how favorably and how authoritatively generative engines describe an entity they name. *AIRS = 0.5 x Sentiment Strength + 0.5 x Authority Confidence.*.
 
 ### Knowledge Conflicts & Retrieval
 
@@ -226,6 +228,7 @@ McKinsey projects agentic commerce will reach $3-5 trillion by 2030. Major playe
 - [Guide to LLM Tracking Tools](https://nicklafferty.com/blog/llm-tracking-tools/) - Comprehensive platform comparison and evaluation criteria.
 - [LLM Tracking Tools Overview](https://nightwatch.io/blog/llm-tracking-tools/) - Feature comparison across major tracking platforms.
 - [AI Search Visibility Tools Directory](https://www.rankability.com/blog/best-ai-search-visibility-tracking-tools/) - Comprehensive directory of tracking tools.
+- [AIVI and AIRS Explained](https://indices.ctrlreality.ai/) - How the two published indices are computed, with a browser calculator. *Reports AIRS as unmeasured, not zero, below eight scored observations.*.
 
 
 
