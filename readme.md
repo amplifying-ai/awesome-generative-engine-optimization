@@ -82,6 +82,7 @@ Purpose-built platforms for AI search optimization, monitoring, and brand visibi
 - [Otterly.AI](https://otterly.ai/) - Focused on link citation analysis for Google AI Overview and Perplexity. Timeline tracking and competitive benchmarking.
 - [Peasy](https://peasy.so/) - Specialized crawl audits and technical analysis for AI search engine visibility.
 - [Peec.ai](https://peec.ai/) - AI search visibility platform with competitive analysis and optimization recommendations.
+- [Pineprompt](https://pineprompt.com) - Paid AI-search visibility monitoring. Tracks brand mentions, citations and share of voice across ChatGPT, Gemini, Perplexity, Claude, Google AI Overviews and AI Mode, daily.
 - [Profound](https://www.tryprofound.com/) - Enterprise benchmark platform. $35M Series B (Sequoia Capital). Tracks ChatGPT, Claude, Perplexity, Gemini. Share of voice, sentiment analysis, prompt-level rankings.
 - [Rankscale](https://rankscale.ai/) - AI-first SEO platform with GEO capabilities for enterprise brands.
 - [Rankshift](https://rankshift.com/) - Position tracking and visibility monitoring for AI-powered search platforms.
