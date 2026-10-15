@@ -108,6 +108,7 @@ Major SEO platforms that have added AI search optimization capabilities:
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
 #### llms.txt Generators
+- [AltoRank](https://github.com/AltoRank/altorank) - Open-source (AGPL-3.0) agent-readiness check that builds a starter llms.txt and evidence-backed JSON-LD from the pages a site actually has. Also exposed as an MCP server.
 - [Apify Generator](https://apify.com/jakub.kopecky/llmstxt-generator) - Scraping-based generator.
 - [llmstxtgenerator.org](https://llmstxtgenerator.org/) - Web-based generator.
 - [WordLift Generator](https://wordlift.io/generate-llms-txt/) - WordPress integration.
