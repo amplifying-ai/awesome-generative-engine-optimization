@@ -89,6 +89,7 @@ Purpose-built platforms for AI search optimization, monitoring, and brand visibi
 - [ZipTie](https://ziptie.ai/) - Brand visibility monitoring across generative AI platforms with detailed breakdowns.
 - [Knowatoa](https://knowatoa.com/) - AI search analytics platform tracking brand mentions across ChatGPT, Claude, and Perplexity.
 - [Daydream](https://www.withdaydream.com/) - AI visibility optimization platform with focus on content discoverability.
+- [SEO·AEO·GEO](https://seoaeogeo.app/) - Single-URL audit for Google and AI search. Requests the page as OAI-SearchBot, Claude-SearchBot and PerplexityBot to catch robots.txt, CDN and firewall blocks, checks content without JavaScript, and grades each check by its evidence. Free tier; one-time and monthly plans.
 
 ### Enterprise SEO Platforms with GEO Features
 
@@ -106,6 +107,7 @@ Major SEO platforms that have added AI search optimization capabilities:
 #### Open Source Data / Evals
 - [AI Product Bench](https://github.com/amplifying-ai/ai-product-bench) - Benchmark for AI product visibility.
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
+- [AI Crawler Access Study, October 2026](https://seoaeogeo.app/blogs/ai-crawler-access-study-2026) - robots.txt rules and live requests as OAI-SearchBot, PerplexityBot and Claude-SearchBot for the Tranco top 5,000 domains, with control requests to separate AI-specific blocks. CSV (5,000 rows) under CC BY 4.0.
 
 #### llms.txt Generators
 - [Apify Generator](https://apify.com/jakub.kopecky/llmstxt-generator) - Scraping-based generator.
