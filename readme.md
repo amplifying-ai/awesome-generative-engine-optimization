@@ -332,6 +332,7 @@ Agencies offering dedicated generative engine optimization services:
 - [iPullRank](https://ipullrank.com/) - Enterprise-focused. Semantic optimization, conversational search, scalable information architecture for LLM parsing.
 - [Obility](https://www.obilityb2b.com/) - B2B marketing focus with GEO integration.
 - [Omniscient Digital](https://beomniscient.com/) - Helps websites become trusted sources cited by LLMs. Integrated SEO+GEO approach.
+- [Orkkid](https://orkkid.com/) - SEO and GEO agency for solar companies, also serving moving companies and wedding vendors. Monthly AI prompt panels across ChatGPT, Perplexity, Gemini, Claude and Google AI Mode.
 - [RevenueZen](https://revenuezen.com/) - B2B GEO specialists for growth-stage companies.
 - [Siege Media](https://www.siegemedia.com/) - Content-focused GEO with comprehensive optimization strategies.
 - [Victorious](https://victorious.com/) - Award-winning for technical precision. Structured content, rich snippets, prompt-based optimizations.
