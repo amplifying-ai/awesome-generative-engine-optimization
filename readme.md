@@ -80,11 +80,10 @@ Purpose-built platforms for AI search optimization, monitoring, and brand visibi
 - [Goodie](https://higoodie.com/) - Leading AI-native GEO platform founded by experts from major tech companies. Comprehensive suite of GEO optimization and monitoring tools.
 - [GEOmetrics](https://trygeometrics.com/) - Hallucination detection and fixing for improved AI citation accuracy.
 - [Otterly.AI](https://otterly.ai/) - Focused on link citation analysis for Google AI Overview and Perplexity. Timeline tracking and competitive benchmarking.
-- [Peasy](https://peasy.so/) - Specialized crawl audits and technical analysis for AI search engine visibility.
 - [Peec.ai](https://peec.ai/) - AI search visibility platform with competitive analysis and optimization recommendations.
 - [Profound](https://www.tryprofound.com/) - Enterprise benchmark platform. $35M Series B (Sequoia Capital). Tracks ChatGPT, Claude, Perplexity, Gemini. Share of voice, sentiment analysis, prompt-level rankings.
 - [Rankscale](https://rankscale.ai/) - AI-first SEO platform with GEO capabilities for enterprise brands.
-- [Rankshift](https://rankshift.com/) - Position tracking and visibility monitoring for AI-powered search platforms.
+- [Rankwise](https://tryrankwise.com/) - Tracks whether ChatGPT, Perplexity, Claude, Gemini and Google AI Overviews cite a brand, drafts articles for the questions it loses, and lists technical fixes for AI crawlers. MCP server and REST API. From $59/mo.
 - [Scrunch](https://scrunch.com/) - Agent Experience Platform (AXP) for making websites legible to AI engines. Monitoring and active optimization.
 - [ZipTie](https://ziptie.ai/) - Brand visibility monitoring across generative AI platforms with detailed breakdowns.
 - [Knowatoa](https://knowatoa.com/) - AI search analytics platform tracking brand mentions across ChatGPT, Claude, and Perplexity.
@@ -95,7 +94,6 @@ Purpose-built platforms for AI search optimization, monitoring, and brand visibi
 Major SEO platforms that have added AI search optimization capabilities:
 
 - [Ahrefs Brand Radar](https://ahrefs.com/brand-radar) - Launched March 2025. Tracks visibility in ChatGPT, Google AI Overviews, Gemini, Perplexity, Copilot. 100M+ prompt database from real search data. Included with subscriptions ($129-$999/month).
-- [ChatGPT Rank Tracker](https://chatgptrank.com/) - Dedicated SearchGPT/ChatGPT Search visibility tracking.
 - [Create & Grow AI Overview Tracker](https://createandgrow.com/) - Focused on Google AI Overviews mention tracking.
 - [HubSpot AI Search Grader](https://www.hubspot.com/) - Free AI Search Grader tool. LLM-referred visitor segmentation. Acquired XFunnel (Jan 2025) for AI search simulations and transparency.
 - [SEMrush](https://www.semrush.com/) - AI Visibility Toolkit ($99/month per domain). Position Tracking for AI Overviews. Enterprise AIO for brand mentions, sentiment, prompt rankings across ChatGPT, Perplexity, Gemini, Claude. 100M+ prompt database.
