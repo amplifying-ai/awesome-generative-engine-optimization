@@ -73,6 +73,7 @@
 Purpose-built platforms for AI search optimization, monitoring, and brand visibility:
 
 - [AthenaHQ](https://www.athenahq.ai/) - Y Combinator-backed. Founded by ex-Google Search and DeepMind leaders. Unified GEO scoring. Claims 70+ customers with 10× AI traffic increases.
+- [Axpecto](https://www.axpecto.com/) - AI visibility and AI agent readiness audits. Asks ChatGPT, Gemini, Claude and Perplexity real buyer questions with live web search and counts mentions, citations and share of voice, audits robots.txt, llms.txt, structured data and content, and sends an AI agent through the site to test whether it can complete tasks. Free plan.
 - [Bluefish AI](https://bluefishai.com/) - $5M funded. Specializes in brand safety and source attribution. "Source graph" showing how Wikipedia, forums, PDFs influence outputs. AI ad campaigns.
 - [GeckoCheck](https://geckocheck.com/) - Platform that helps merchants and brands optimize visibility, dominate AIsearch results, and deliver answers to billions of daily shoppers.
 - [GenRank](https://genrank.io/) - Timeline visualization and competitor benchmarking for AI visibility trends.
