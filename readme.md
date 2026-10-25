@@ -40,6 +40,7 @@
 #### ChatGPT Search / SearchGPT
 - [How ChatGPT Search Works](https://www.semrush.com/blog/chatgpt-search/) - Technical breakdown of ChatGPT's search functionality and ranking factors.
 - [SearchGPT Optimization Guide](https://firstpagesage.com/seo-blog/searchgpt-optimization-2025-guide/) - Complete optimization strategies for OpenAI's search features.
+- [Mode VC WebMCP & Backlink Lens](https://modevc.com/tools/webmcp-backlink-lens) - Open-source Manifest V3 Chrome Extension and W3C WebMCP inspector for auditing dofollow/nofollow links and `.well-known/mcp.json` manifests.
 
 #### Perplexity
 - [Perplexity Ranking Factors Deep Dive](https://firstpagesage.com/seo-blog/perplexity-ai-optimization-ranking-factors-and-strategy/) - Detailed analysis of Perplexity's 3-layer reranking system.
