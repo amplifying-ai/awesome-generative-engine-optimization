@@ -72,6 +72,7 @@
 
 Purpose-built platforms for AI search optimization, monitoring, and brand visibility:
 
+- [aiseen.cloud](https://aiseen.cloud/en/) - Free AI-readiness check: real requests as 27 AI crawlers, content without JavaScript, llms.txt, schema and citability, scored out of 100 with every fix and ready-made llms.txt, robots.txt and JSON-LD. Paid audit adds what 9+ AI assistants answer in your niche and which competitors they name.
 - [AthenaHQ](https://www.athenahq.ai/) - Y Combinator-backed. Founded by ex-Google Search and DeepMind leaders. Unified GEO scoring. Claims 70+ customers with 10× AI traffic increases.
 - [Bluefish AI](https://bluefishai.com/) - $5M funded. Specializes in brand safety and source attribution. "Source graph" showing how Wikipedia, forums, PDFs influence outputs. AI ad campaigns.
 - [GeckoCheck](https://geckocheck.com/) - Platform that helps merchants and brands optimize visibility, dominate AIsearch results, and deliver answers to billions of daily shoppers.
