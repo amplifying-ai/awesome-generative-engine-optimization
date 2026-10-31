@@ -175,7 +175,9 @@ Major SEO platforms that have added AI search optimization capabilities:
 - [JSON-LD vs Microdata Performance](https://www.searchpilot.com/resources/case-studies/json-versus-microdata-in-2024) - A/B test results.
 - [Schema for AI Visibility](https://www.oneorangecow.com/blog/increase-ai-search-visibility-with-structured-data-and-schema-markup) - Best practices.
 
+### Entity Inscription
 
+- [SPXI Specification](https://spxi.dev) - Open protocol (CC BY 4.0) for entity inscription: it writes an entity's representation across independent surfaces, anchored by persistent identifiers, so AI answers compose the entity itself. Incorporates the classic GEO methods of Aggarwal et al. (KDD 2024); its evidence is a public registry of dated, re-runnable AI answers.
 
 ## Agentic Commerce & Shopping
 
