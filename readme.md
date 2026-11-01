@@ -72,6 +72,7 @@
 
 Purpose-built platforms for AI search optimization, monitoring, and brand visibility:
 
+- [AEO Analyzers](https://aeoanalyzers.com/) - Measures what ChatGPT, Claude, Perplexity and Gemini (plus Grok on Pro and Business) say when buyers ask for a recommendation; stores every answer and reports being found by name separately from being recommended.
 - [AthenaHQ](https://www.athenahq.ai/) - Y Combinator-backed. Founded by ex-Google Search and DeepMind leaders. Unified GEO scoring. Claims 70+ customers with 10× AI traffic increases.
 - [Bluefish AI](https://bluefishai.com/) - $5M funded. Specializes in brand safety and source attribution. "Source graph" showing how Wikipedia, forums, PDFs influence outputs. AI ad campaigns.
 - [GeckoCheck](https://geckocheck.com/) - Platform that helps merchants and brands optimize visibility, dominate AIsearch results, and deliver answers to billions of daily shoppers.
@@ -106,6 +107,7 @@ Major SEO platforms that have added AI search optimization capabilities:
 #### Open Source Data / Evals
 - [AI Product Bench](https://github.com/amplifying-ai/ai-product-bench) - Benchmark for AI product visibility.
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
+- [AEO Measurement Panel](https://github.com/lhiebert01/aeo-measurement-panel) - Open twelve-question panel and scoring rules (found by name, described accurately, recommended), published by AEO Analyzers with its monthly results.
 
 #### llms.txt Generators
 - [Apify Generator](https://apify.com/jakub.kopecky/llmstxt-generator) - Scraping-based generator.
