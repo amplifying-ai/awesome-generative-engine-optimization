@@ -104,6 +104,7 @@ Major SEO platforms that have added AI search optimization capabilities:
 ### Utilities & Generators
 
 #### Open Source Data / Evals
+- [AEO Toolkit](https://aeo.advancelabs.dev) - Open-source site audits for AI answer-engine readiness, with a Chrome extension and npm packages.
 - [AI Product Bench](https://github.com/amplifying-ai/ai-product-bench) - Benchmark for AI product visibility.
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
