@@ -111,6 +111,7 @@ Major SEO platforms that have added AI search optimization capabilities:
 - [Apify Generator](https://apify.com/jakub.kopecky/llmstxt-generator) - Scraping-based generator.
 - [llmstxtgenerator.org](https://llmstxtgenerator.org/) - Web-based generator.
 - [WordLift Generator](https://wordlift.io/generate-llms-txt/) - WordPress integration.
+- [Fix42 llms.txt Generator](https://fix42.com/tools/llms-txt-generator/) - Browser-based generator that builds the file from a pasted sitemap or URL list.
 
 
 
