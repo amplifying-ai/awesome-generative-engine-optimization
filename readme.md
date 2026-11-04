@@ -83,6 +83,7 @@ Purpose-built platforms for AI search optimization, monitoring, and brand visibi
 - [Peasy](https://peasy.so/) - Specialized crawl audits and technical analysis for AI search engine visibility.
 - [Peec.ai](https://peec.ai/) - AI search visibility platform with competitive analysis and optimization recommendations.
 - [Profound](https://www.tryprofound.com/) - Enterprise benchmark platform. $35M Series B (Sequoia Capital). Tracks ChatGPT, Claude, Perplexity, Gemini. Share of voice, sentiment analysis, prompt-level rankings.
+- [PromptScout](https://www.promptscout.app/?utm_source=github-awesome-geo-amplifying&utm_medium=directory&utm_campaign=free-check-launch) - Hosted tool that checks whether ChatGPT, Gemini, Google AI Overviews, Perplexity and Bing Copilot name a brand and which sources they cite.
 - [Rankscale](https://rankscale.ai/) - AI-first SEO platform with GEO capabilities for enterprise brands.
 - [Rankshift](https://rankshift.com/) - Position tracking and visibility monitoring for AI-powered search platforms.
 - [Scrunch](https://scrunch.com/) - Agent Experience Platform (AXP) for making websites legible to AI engines. Monitoring and active optimization.
