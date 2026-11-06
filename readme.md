@@ -106,6 +106,7 @@ Major SEO platforms that have added AI search optimization capabilities:
 #### Open Source Data / Evals
 - [AI Product Bench](https://github.com/amplifying-ai/ai-product-bench) - Benchmark for AI product visibility.
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
+- [AdRails](https://github.com/antonioac1/adrails) - Open-source, local MCP server with an AEO toolkit for AI agents: AI-crawler access audit (18 bots, RFC 9309), page answer-readiness score, JSON-LD and llms.txt validation, share-of-answer tracking and IndexNow submission.
 
 #### llms.txt Generators
 - [Apify Generator](https://apify.com/jakub.kopecky/llmstxt-generator) - Scraping-based generator.
@@ -168,6 +169,7 @@ Major SEO platforms that have added AI search optimization capabilities:
 - [The Rise of AI Crawlers](https://vercel.com/blog/the-rise-of-the-ai-crawler) - Analysis of 1.3B crawler requests.
 - [How OpenAI Crawls Websites](https://www.withdaydream.com/library/how-openai-crawls-and-indexes-your-website) - Technical breakdown.
 - [AI Crawlers Can't Execute JavaScript](https://prerender.io/blog/how-to-optimize-your-website-for-ai-crawlers/) - Critical limitation analysis.
+- [AI Crawler Checker](https://adrails.dev/tools/ai-crawler-checker/) - Free in-browser robots.txt check showing which of 18 AI and search crawlers (training, search, user-fetch) may fetch a path.
 
 ### Structured Data
 
