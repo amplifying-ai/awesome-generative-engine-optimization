@@ -326,6 +326,7 @@ These platforms are frequently cited by AI engines - building presence here impr
 Agencies offering dedicated generative engine optimization services:
 
 - [Avenue Z](https://avenuez.com/) - Serves FinTech, B2B SaaS, HealthTech, DTC eCommerce.
+- [Continuum](https://uxcontinuum.com) - AEO service.
 - [First Page Sage](https://firstpagesage.com/) - Top-rated GEO agency serving Salesforce, Logitech. Specializes in B2B SaaS, medtech, manufacturing.
 - [Growth Plays](https://www.growthplays.com/) - Data-driven GEO and content strategies.
 - [Ignite Visibility](https://ignitevisibility.com/) - Full-service digital marketing with GEO capabilities.
