@@ -86,6 +86,7 @@ Purpose-built platforms for AI search optimization, monitoring, and brand visibi
 - [Rankscale](https://rankscale.ai/) - AI-first SEO platform with GEO capabilities for enterprise brands.
 - [Rankshift](https://rankshift.com/) - Position tracking and visibility monitoring for AI-powered search platforms.
 - [Scrunch](https://scrunch.com/) - Agent Experience Platform (AXP) for making websites legible to AI engines. Monitoring and active optimization.
+- [zaDojo](https://zadojo.com/) - Free MCP for Google Search Console and Google Analytics, plus SERP, keyword research, rank tracking, GEO, AEO and AI visibility tracking across ChatGPT, Gemini, Perplexity and Google AI Overviews. Paid research is optional pay-as-you-go.
 - [ZipTie](https://ziptie.ai/) - Brand visibility monitoring across generative AI platforms with detailed breakdowns.
 - [Knowatoa](https://knowatoa.com/) - AI search analytics platform tracking brand mentions across ChatGPT, Claude, and Perplexity.
 - [Daydream](https://www.withdaydream.com/) - AI visibility optimization platform with focus on content discoverability.
