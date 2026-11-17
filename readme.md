@@ -226,6 +226,7 @@ McKinsey projects agentic commerce will reach $3-5 trillion by 2030. Major playe
 - [Guide to LLM Tracking Tools](https://nicklafferty.com/blog/llm-tracking-tools/) - Comprehensive platform comparison and evaluation criteria.
 - [LLM Tracking Tools Overview](https://nightwatch.io/blog/llm-tracking-tools/) - Feature comparison across major tracking platforms.
 - [AI Search Visibility Tools Directory](https://www.rankability.com/blog/best-ai-search-visibility-tracking-tools/) - Comprehensive directory of tracking tools.
+- [GEO Lab: AI Visibility Measurement Guide](https://helen-bird.github.io/geo-platform-observation/learning-hub/measurement/) - Free Excel worksheet and worked example for coding mentions, citations, and recommendations across repeat AI search answers.
 
 
 
