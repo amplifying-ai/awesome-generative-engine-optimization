@@ -72,6 +72,7 @@
 
 Purpose-built platforms for AI search optimization, monitoring, and brand visibility:
 
+- [AI-Vision](https://ai-vision.top/) - Product discovery and Generative Engine Optimization (GEO) platform that indexes products for SearchGPT, Perplexity, Claude, and Gemini with real-time llms.txt vector feeds and Schema.org markup.
 - [AthenaHQ](https://www.athenahq.ai/) - Y Combinator-backed. Founded by ex-Google Search and DeepMind leaders. Unified GEO scoring. Claims 70+ customers with 10× AI traffic increases.
 - [Bluefish AI](https://bluefishai.com/) - $5M funded. Specializes in brand safety and source attribution. "Source graph" showing how Wikipedia, forums, PDFs influence outputs. AI ad campaigns.
 - [GeckoCheck](https://geckocheck.com/) - Platform that helps merchants and brands optimize visibility, dominate AIsearch results, and deliver answers to billions of daily shoppers.
