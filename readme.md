@@ -125,6 +125,7 @@ Major SEO platforms that have added AI search optimization capabilities:
 - [AI Platform Citation Patterns](https://www.tryprofound.com/blog/ai-platform-citation-patterns) - Analysis of how ChatGPT, Google AI Overviews, and Perplexity cite sources differently. *Wikipedia dominates ChatGPT at 47.9% of top citations; Reddit appears heavily in Gemini and Perplexity.*.
 - [Conductor 2026 AEO/GEO Benchmarks Report](https://www.conductor.com/academy/aeo-geo-benchmarks-report/) - Industry's first large-scale AEO/GEO analysis across 13,770 domains, 21.9M searches, and 17M AI responses. *Key finding: ChatGPT drives 87.4% of AI referral traffic; AI referral conversions are 2× higher than traditional sources.*.
 - [State of AI Search Optimization 2026](https://www.growth-memo.com/p/state-of-ai-search-optimization-2026) - Kevin Indig's comprehensive analysis of LLM citation patterns and visibility factors. *Reports 24% of ChatGPT responses generated without fetching online content; content under 3 months old is 3× more likely to be cited.*.
+- [Who AI Recommends in Dallas-Fort Worth (2026)](https://renownly.org/resources/who-ai-recommends-dfw-2026?ref=amplifying-ai) - 168 local searches across 12 industries and 14 cities, comparing ChatGPT and Google AI Mode answers with Google Maps ratings; data CSV (CC BY 4.0). *Found 41% of top-rated local businesses were named by neither engine, and ChatGPT cited outside sites in 109 of 110 answers.*
 
 ### Knowledge Conflicts & Retrieval
 
