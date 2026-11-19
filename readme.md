@@ -49,7 +49,7 @@
 
 - [AI Optimization Technical Guide](https://searchengineland.com/ai-optimization-how-to-optimize-your-content-for-ai-search-and-agents-451287) - Comprehensive technical overview of content optimization for AI systems.
 - [How Vercel Adapts SEO for LLMs](https://vercel.com/blog/how-were-adapting-seo-for-llms-and-ai-search) - Real-world implementation case study from a major platform.
-- [AI Search Optimization: llms.txt Best Practices](https://llmsconverter.com/blog/ai-search-optimization-llms-txt-best-practices/) - Technical implementation guide for llms.txt protocol.
+- [What Is llms.txt, and Do You Need One?](https://highsalience.com/guides/llms-txt/) - Format, examples and what the major engines say about llms.txt.
 - [Integrate GEO with SEO](https://searchengineland.com/integrate-geo-seo-453351) - Strategies for unified traditional and AI search optimization.
 - [10-Step Guide to GEO](https://www.superlines.io/articles/generative-engine-optimization-geo-guide-2025) - Systematic approach to implementing GEO.
 - [LLMO: 10 Ways to Work Your Brand Into AI Answers](https://ahrefs.com/blog/llm-optimization/) - Practical tactics for improving AI citations.
@@ -221,7 +221,7 @@ McKinsey projects agentic commerce will reach $3-5 trillion by 2030. Major playe
 - [Track AI Visibility Across Platforms](https://searchengineland.com/how-to-track-visibility-across-ai-platforms-454251) - Cross-platform tracking methodologies and frameworks.
 - [LLM Optimization Tracking](https://searchengineland.com/llm-optimization-tracking-visibility-ai-discovery-463860) - Emerging approaches for AI discovery measurement.
 - [AI Search Traffic in GA4](https://www.seoclarity.net/blog/track-ai-search-traffic) - Setup guide for tracking AI-referred traffic in Google Analytics.
-- [Measuring GEO Success](https://www.purplexmarketing.com/news/measuring-success-in-geo) - KPI framework for generative engine optimization.
+- [AI Visibility: What It Is and How to Measure It](https://highsalience.com/guides/ai-visibility/) - Presence, recommendation and citation metrics for generative engine optimization.
 - [AI Brand Footprint Measurement](https://www.wholewhale.com/tips/measuring-your-ai-brand-footprint-the-hidden-visibility-challenge/) - Approaches to measuring brand visibility in AI responses.
 - [Guide to LLM Tracking Tools](https://nicklafferty.com/blog/llm-tracking-tools/) - Comprehensive platform comparison and evaluation criteria.
 - [LLM Tracking Tools Overview](https://nightwatch.io/blog/llm-tracking-tools/) - Feature comparison across major tracking platforms.
