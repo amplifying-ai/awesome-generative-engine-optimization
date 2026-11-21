@@ -72,6 +72,7 @@
 
 Purpose-built platforms for AI search optimization, monitoring, and brand visibility:
 
+- [AEO Spotlight](https://aeospotlight.com/) - Tracks brand mentions and cited sources across ChatGPT, Gemini, Google AI Overviews, Perplexity, DeepSeek, Grok, Claude and Microsoft Copilot. Competitor tracking, visibility gaps with the evidence behind them, and an MCP connector. Free plan; paid from $69/month.
 - [AthenaHQ](https://www.athenahq.ai/) - Y Combinator-backed. Founded by ex-Google Search and DeepMind leaders. Unified GEO scoring. Claims 70+ customers with 10× AI traffic increases.
 - [Bluefish AI](https://bluefishai.com/) - $5M funded. Specializes in brand safety and source attribution. "Source graph" showing how Wikipedia, forums, PDFs influence outputs. AI ad campaigns.
 - [GeckoCheck](https://geckocheck.com/) - Platform that helps merchants and brands optimize visibility, dominate AIsearch results, and deliver answers to billions of daily shoppers.
