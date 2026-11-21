@@ -89,7 +89,7 @@ Purpose-built platforms for AI search optimization, monitoring, and brand visibi
 - [ZipTie](https://ziptie.ai/) - Brand visibility monitoring across generative AI platforms with detailed breakdowns.
 - [Knowatoa](https://knowatoa.com/) - AI search analytics platform tracking brand mentions across ChatGPT, Claude, and Perplexity.
 - [Daydream](https://www.withdaydream.com/) - AI visibility optimization platform with focus on content discoverability.
-- [SupaSEO](https://supaseo.dev) - Local SEO and AI citation tracking: Google Maps rank tracking, organic results, and AI citations using your own provider keys. One-time $61 license.
+- [SupaSEO](https://supaseo.dev) - Local SEO and AI citation tracking — Google Maps rank tracking, organic results, and AI citations with your own provider keys. One-time license, pay once.
 
 ### Enterprise SEO Platforms with GEO Features
 
