@@ -30,6 +30,7 @@
 - [What is GEO?](https://searchengineland.com/what-is-generative-engine-optimization-geo-444418) - Search Engine Land primer.
 - [GEO vs SEO Differences](https://seo.ai/blog/generative-engine-optimization-geo-vs-search-engine-optimization-seo) - Key distinctions.
 - [Beginner's Guide to GEO](https://aioseo.com/generative-engine-optimization-geo/) - Step-by-step introduction.
+- [AI Search Visibility Audit Kit](https://github.com/shahshivani120-lab/ai-search-visibility-audit) - Free, beginner-friendly audit kit with a prompt library, citation tracker and report template for ChatGPT, Perplexity, Gemini, Copilot and AI Overviews.
 
 ### Platform-Specific Optimization
 
