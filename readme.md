@@ -30,6 +30,7 @@
 - [What is GEO?](https://searchengineland.com/what-is-generative-engine-optimization-geo-444418) - Search Engine Land primer.
 - [GEO vs SEO Differences](https://seo.ai/blog/generative-engine-optimization-geo-vs-search-engine-optimization-seo) - Key distinctions.
 - [Beginner's Guide to GEO](https://aioseo.com/generative-engine-optimization-geo/) - Step-by-step introduction.
+- [GEO Basics: Generative Engine Optimization Basic Guide](https://paladini.io/generative-engine-optimization-basic-guide/) - Free, open-source bilingual beginner guide to GEO with source-backed lessons in English and Brazilian Portuguese.
 
 ### Platform-Specific Optimization
 
