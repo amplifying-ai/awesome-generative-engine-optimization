@@ -86,6 +86,7 @@ Purpose-built platforms for AI search optimization, monitoring, and brand visibi
 - [Rankscale](https://rankscale.ai/) - AI-first SEO platform with GEO capabilities for enterprise brands.
 - [Rankshift](https://rankshift.com/) - Position tracking and visibility monitoring for AI-powered search platforms.
 - [Scrunch](https://scrunch.com/) - Agent Experience Platform (AXP) for making websites legible to AI engines. Monitoring and active optimization.
+- [Visibian](https://visibian.com/) - AI visibility platform for brands and agencies. Asks ChatGPT, Gemini, Google AI Mode, Perplexity, Copilot, Grok, Claude, Qwen, DeepSeek, GLM and Kimi the questions buyers ask, daily or weekly, and shows which brands they recommend and which sources they cite.
 - [ZipTie](https://ziptie.ai/) - Brand visibility monitoring across generative AI platforms with detailed breakdowns.
 - [Knowatoa](https://knowatoa.com/) - AI search analytics platform tracking brand mentions across ChatGPT, Claude, and Perplexity.
 - [Daydream](https://www.withdaydream.com/) - AI visibility optimization platform with focus on content discoverability.
@@ -111,6 +112,9 @@ Major SEO platforms that have added AI search optimization capabilities:
 - [Apify Generator](https://apify.com/jakub.kopecky/llmstxt-generator) - Scraping-based generator.
 - [llmstxtgenerator.org](https://llmstxtgenerator.org/) - Web-based generator.
 - [WordLift Generator](https://wordlift.io/generate-llms-txt/) - WordPress integration.
+
+#### Agent Skills
+- [Visibian SEO & GEO skills](https://github.com/visibian/seo-geo-skills) - 24 free, MIT-licensed agent skills for Claude Code, Codex, Copilot, Cursor and Gemini CLI: site audits and change monitoring, Search Console, backlinks, Core Web Vitals, hreflang, structured data, llms.txt and AI crawler access, with tested Python scripts.
 
 
 
@@ -168,6 +172,9 @@ Major SEO platforms that have added AI search optimization capabilities:
 - [The Rise of AI Crawlers](https://vercel.com/blog/the-rise-of-the-ai-crawler) - Analysis of 1.3B crawler requests.
 - [How OpenAI Crawls Websites](https://www.withdaydream.com/library/how-openai-crawls-and-indexes-your-website) - Technical breakdown.
 - [AI Crawlers Can't Execute JavaScript](https://prerender.io/blog/how-to-optimize-your-website-for-ai-crawlers/) - Critical limitation analysis.
+- [AI crawler directory](https://visibianhq.com/research/crawlers/) - Visibian Research. A page for each of 24 AI crawlers and settings (GPTBot, OAI-SearchBot, ClaudeBot, PerplexityBot, Google-Extended, CCBot and others): what it is for, whether it follows robots.txt, what blocking it changes, and the company's own documentation, with the date read.
+- [What the top 1,000 sites block](https://visibianhq.com/research/ai-crawlers/) - Visibian Research, October 2026. The robots.txt files of the 1,000 most visited websites, read for each AI crawler: one in five shuts out at least one AI crawler while still letting Google in. Data as CSV, CC BY 4.0.
+
 
 ### Structured Data
 
