@@ -114,7 +114,7 @@ Major SEO platforms that have added AI search optimization capabilities:
 - [WordLift Generator](https://wordlift.io/generate-llms-txt/) - WordPress integration.
 
 #### Agent Skills
-- [Visibian SEO & GEO skills](https://github.com/visibian/seo-geo-skills) - 24 free, MIT-licensed agent skills for Claude Code, Codex, Copilot, Cursor and Gemini CLI: site audits and change monitoring, Search Console, backlinks, Core Web Vitals, hreflang, structured data, llms.txt and AI crawler access, with tested Python scripts.
+- [Visibian SEO & GEO skills](https://github.com/visibian/seo-geo-skills) - 24 free, MIT-licensed agent skills for Claude Code, Codex, Copilot, Cursor and Gemini CLI:  site audits and change monitoring, Search Console, backlinks, Core Web Vitals, hreflang, structured data, llms.txt and AI crawler access, with tested Python scripts.
 
 
 
