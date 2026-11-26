@@ -106,11 +106,13 @@ Major SEO platforms that have added AI search optimization capabilities:
 #### Open Source Data / Evals
 - [AI Product Bench](https://github.com/amplifying-ai/ai-product-bench) - Benchmark for AI product visibility.
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
+- [CiteReady CLI & 50-Site AI Search Benchmark (2026)](https://github.com/zColdWater/citeready-cli) - MIT zero-dependency CLI & GitHub Action for auditing `/llms.txt`, Schema.org entity graphs, and 10 AI crawlers, accompanied by an [empirical 50-domain benchmark & open JSON dataset](https://zcoldwater.github.io/citeready-cli/ai-search-readiness-benchmark-2026.html).
 
 #### llms.txt Generators
 - [Apify Generator](https://apify.com/jakub.kopecky/llmstxt-generator) - Scraping-based generator.
 - [llmstxtgenerator.org](https://llmstxtgenerator.org/) - Web-based generator.
 - [WordLift Generator](https://wordlift.io/generate-llms-txt/) - WordPress integration.
+- [CiteReady Generator](https://cite.shipbastion.com/generator) - Web-based `/llms.txt` generator and 2-domain side-by-side AI search readiness auditor.
 
 
 
