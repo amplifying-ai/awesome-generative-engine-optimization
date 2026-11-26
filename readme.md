@@ -79,6 +79,7 @@ Purpose-built platforms for AI search optimization, monitoring, and brand visibi
 - [Geoptie](https://geoptie.com/) - Helps you optimize your content for AI search engines and track your performance across multiple platforms.
 - [Goodie](https://higoodie.com/) - Leading AI-native GEO platform founded by experts from major tech companies. Comprehensive suite of GEO optimization and monitoring tools.
 - [GEOmetrics](https://trygeometrics.com/) - Hallucination detection and fixing for improved AI citation accuracy.
+- [Innflows](https://www.innflows.com/) - Multi-engine GEO platform ($99–$399/month self-serve + Enterprise) tracking brand mentions and cited URLs across ChatGPT, Gemini, Google AI Overviews, Google AI Mode, Grok, DeepSeek, and Qwen, paired with five-dimension FLOWS scoring and an 18-check Website AI-Readiness Audit.
 - [Otterly.AI](https://otterly.ai/) - Focused on link citation analysis for Google AI Overview and Perplexity. Timeline tracking and competitive benchmarking.
 - [Peasy](https://peasy.so/) - Specialized crawl audits and technical analysis for AI search engine visibility.
 - [Peec.ai](https://peec.ai/) - AI search visibility platform with competitive analysis and optimization recommendations.
@@ -105,7 +106,8 @@ Major SEO platforms that have added AI search optimization capabilities:
 
 #### Open Source Data / Evals
 - [AI Product Bench](https://github.com/amplifying-ai/ai-product-bench) - Benchmark for AI product visibility.
-- [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
+- [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker)
+- [Website AI-Readiness Audit CLI & MCP Server](https://github.com/innflows/website-ai-readiness-audit) - Zero-dependency MIT-licensed CLI (`npx @innflows/ai-readiness-audit`) and MCP server auditing 14 AI crawler `robots.txt` rules, `/llms.txt`, SSR HTML extractability, and `Schema.org` JSON-LD. - Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
 #### llms.txt Generators
 - [Apify Generator](https://apify.com/jakub.kopecky/llmstxt-generator) - Scraping-based generator.
@@ -124,7 +126,8 @@ Major SEO platforms that have added AI search optimization capabilities:
 - [Inside AI Search Ranking Factors](https://pallasadvisory.com/2025/03/14/inside-ai-search-decoding-how-chatgpt-perplexity-rank-your-content/) - Pallas Advisory's reverse engineering of AI ranking (March 2025). *Offers insights on how ChatGPT and Perplexity select and rank sources in their responses.*.
 - [AI Platform Citation Patterns](https://www.tryprofound.com/blog/ai-platform-citation-patterns) - Analysis of how ChatGPT, Google AI Overviews, and Perplexity cite sources differently. *Wikipedia dominates ChatGPT at 47.9% of top citations; Reddit appears heavily in Gemini and Perplexity.*.
 - [Conductor 2026 AEO/GEO Benchmarks Report](https://www.conductor.com/academy/aeo-geo-benchmarks-report/) - Industry's first large-scale AEO/GEO analysis across 13,770 domains, 21.9M searches, and 17M AI responses. *Key finding: ChatGPT drives 87.4% of AI referral traffic; AI referral conversions are 2× higher than traditional sources.*.
-- [State of AI Search Optimization 2026](https://www.growth-memo.com/p/state-of-ai-search-optimization-2026) - Kevin Indig's comprehensive analysis of LLM citation patterns and visibility factors. *Reports 24% of ChatGPT responses generated without fetching online content; content under 3 months old is 3× more likely to be cited.*.
+- [State of AI Search Optimization 2026](https://www.growth-memo.com/p/state-of-ai-search-optimization-2026)
+- [How ChatGPT and Gemini Actually Search the Web (36,000+ Native Fan-Out Queries)](https://www.innflows.com/blog/seo/how-chatgpt-and-gemini-search-the-web-36k-query-study) - Empirical analysis of ~12,000 search-grounded AI responses and 36,000+ fan-out queries. *Finds that 44.5% of ChatGPT web searches include explicit `site:` domain operators vs. 0.0% in Gemini, explaining divergence between brand-domain verification and multi-vendor comparison retrieval.*. - Kevin Indig's comprehensive analysis of LLM citation patterns and visibility factors. *Reports 24% of ChatGPT responses generated without fetching online content; content under 3 months old is 3× more likely to be cited.*.
 
 ### Knowledge Conflicts & Retrieval
 
