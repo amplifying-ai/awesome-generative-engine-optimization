@@ -28,6 +28,7 @@
 ### Getting Started
 
 - [What is GEO?](https://searchengineland.com/what-is-generative-engine-optimization-geo-444418) - Search Engine Land primer.
+- [AshuTeacher](https://ashuteacher.vercel.app) - AI-powered learning PWA & Android app (freemium) with an interactive voice blackboard tutor in 24+ languages, exam paper solver, adaptive quizzes, and a Project, Thesis & Research Studio.
 - [GEO vs SEO Differences](https://seo.ai/blog/generative-engine-optimization-geo-vs-search-engine-optimization-seo) - Key distinctions.
 - [Beginner's Guide to GEO](https://aioseo.com/generative-engine-optimization-geo/) - Step-by-step introduction.
 
