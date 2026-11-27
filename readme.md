@@ -112,6 +112,10 @@ Major SEO platforms that have added AI search optimization capabilities:
 - [llmstxtgenerator.org](https://llmstxtgenerator.org/) - Web-based generator.
 - [WordLift Generator](https://wordlift.io/generate-llms-txt/) - WordPress integration.
 
+#### Website Templates
+
+- [GEO Website Template](https://github.com/Garyxie-ing/geo-website-template) - Next.js brand site template optimised for AI search (GEO). JSON-LD, llms.txt, sitemap and robots.txt are generated from a single config file.
+
 
 
 ## Research & Papers
